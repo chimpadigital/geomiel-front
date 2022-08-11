@@ -2,7 +2,7 @@
     <div class="container-fluid navbar-inner">
         <a href="index.html" class="navbar-brand">
             <!--Logo start-->
-            <img src="assets/images/geomiel-logo.svg" alt="Geomiel">
+            <img src="assets/images/geomiel-logo.svg" alt="Geomiel" height="44px">
             <!--logo End-->
         </a>
         <div class="sidebar-toggle" data-toggle="sidebar" data-active="true">
@@ -203,7 +203,7 @@
                         <li>
                             <hr class="dropdown-divider">
                         </li> -->
-                        <li><a class="dropdown-item" href="sign-in.php">Cerrar sesión</a></li>
+                        <li><a class="dropdown-item" href="index.php">Cerrar sesión</a></li>
                     </ul>
                 </li>
             </ul>

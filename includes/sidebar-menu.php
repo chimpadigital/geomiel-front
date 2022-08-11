@@ -1,11 +1,11 @@
 <aside class="sidebar sidebar-default navs-rounded-all">
     <div class="sidebar-header d-flex align-items-center justify-content-start">
-        <a href="../dashboard/index.html" class="navbar-brand">
+        <a href="index-01.php" class="navbar-brand">
             <!--Logo start-->
-            <img src="assets/images/geomiel-logo.svg" alt="Geomiel">
+            <img src="assets/images/geomiel-logo.svg" alt="Geomiel" height="44px">
             <!--logo End-->
         </a>
-        <div class="sidebar-toggle" data-toggle="sidebar" data-active="true">
+        <div class="sidebar-toggle d-md-block d-lg-none" data-toggle="sidebar" data-active="true">
             <i class="icon">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M4.25 12.2744L19.25 12.2744" stroke="currentColor" stroke-width="1.5"
@@ -20,7 +20,7 @@
         <div class="sidebar-list">
             <ul class="navbar-nav iq-main-menu" id="sidebar-menu">
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="index.php">
+                    <a class="nav-link" aria-current="page" href="index-01.php">
                         <span class="item-name">Inicio</span>
                     </a>
                 </li>
@@ -80,7 +80,7 @@
     </div>
     <div class="sidebar-footer d-flex flex-column align-items-center">
         <img src="assets/images/img-bee-menu.svg">
-        <a href="#">
+        <a href="index.php">
             <svg width="19" height="16" viewBox="0 0 19 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <g clip-path="url(#clip0_2294_142710)">
                     <path fill-rule="evenodd" clip-rule="evenodd"
