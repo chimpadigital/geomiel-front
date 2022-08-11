@@ -27,7 +27,8 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="d-flex align-items-center">
-                                <h1 class="mb-0">Equivalencias</h1>
+                                <img src="assets/images/icon-equivalencias.svg" alt="">
+                                <h1 class="ms-2 mb-0">Equivalencias</h1>
                             </div>
                         </div>
                     </div>

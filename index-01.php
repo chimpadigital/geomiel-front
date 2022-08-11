@@ -25,11 +25,10 @@
                 <div class="container-fluid iq-container">
                     <div class="row">
                         <div class="col-md-12">
-                            <div class="flex-wrap d-flex justify-content-between align-items-center">
-                                <div>
-                                    <h1 class="mb-0">Bienvenido/a Nuevamente</h1>
-                                </div>
-                            </div>
+                            <div class="d-flex align-items-center">
+                                <img src="assets/images/icon-home-01.svg" alt="" width="60px">
+                                <h1 class="ms-2 mb-0">Bienvenido/a Nuevamente</h1>
+                            </div>    
                         </div>
                     </div>
                 </div>

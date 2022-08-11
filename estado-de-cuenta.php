@@ -33,7 +33,7 @@
                                 </ol>
                             </nav>  
                             <div class="d-flex align-items-center">
-                                <img src="assets/images/icon-provedores.svg" alt="">
+                                <img src="assets/images/icon-bill-paper.svg" alt="" width="60px">
                                 <h1 class="ms-2 mb-0">Estado de cuenta proveedor Airi Satou</h1>
                             </div>
                         </div>

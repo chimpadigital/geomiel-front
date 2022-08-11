@@ -3,14 +3,14 @@
         id="fab_btn"><i class="material-icons text-white">add</i></button>
     <div class="mdl-button--fab_flinger-options">
         <button class="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect" data-bs-toggle="modal" data-bs-target="#nueva-ordenModal">
-            <i class="material-icons" data-bs-toggle="tooltip" data-bs-placement="top"
+            <img src="../assets/images/icon-proveedor-01.svg" width="22px" data-bs-toggle="tooltip" data-bs-placement="top"
             data-bs-custom-class="custom-tooltip"
-            data-bs-title="Nueva órden de compra">content_copy</i>
+            data-bs-title="Nueva órden de compra">
         </button>
         <button class="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect" data-bs-toggle="modal" data-bs-target="#nuevo-proveedorModal">
-            <i class="material-icons" data-bs-toggle="tooltip" data-bs-placement="top"
+        <img src="../assets/images/icon-nuevo-proveedor.svg" width="22px" data-bs-toggle="tooltip" data-bs-placement="top"
             data-bs-custom-class="custom-tooltip"
-            data-bs-title="Nuevo proveedor">content_copy</i>
+            data-bs-title="Nuevo proveedor">
         </button>
     </div>
 </div>

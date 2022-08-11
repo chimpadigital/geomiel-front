@@ -722,6 +722,10 @@ body.uikit .btn-download {
   right: 20px;
 }
 
+.mdl-button--fab {
+  background: #FAB428;
+}
+
 .mdl-button--fab_flinger-container.is-showing-options>button i {
   -webkit-transition: -webkit-transform 0.1s linear;
   transition: transform 0.1s linear;

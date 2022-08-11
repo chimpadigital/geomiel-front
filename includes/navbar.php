@@ -1,6 +1,6 @@
 <nav class="nav navbar navbar-expand-lg navbar-light iq-navbar">
     <div class="container-fluid navbar-inner">
-        <a href="index.html" class="navbar-brand">
+        <a href="index-01.php" class="navbar-brand">
             <!--Logo start-->
             <img src="assets/images/geomiel-logo.svg" alt="Geomiel" height="44px">
             <!--logo End-->
