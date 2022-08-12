@@ -43,22 +43,7 @@
             <div class="row">
                 <div class="col-md-12 bg-grey rounded">
                     <div class="row row-cols-1">
-                        <div class="col-md-12" id="search">
-                            <h2 class="mb-3 mt-5">Estado de órdenes activas</h2>
-                            <div class="card card-body rounded-pill d-flex justify-content-around text-center py-3">
-                                <div class="input-group search-input">
-                                    <input type="search" class="form-control" placeholder="Buscar órden de compra">
-                                    <svg class="ms-3" width="20px" viewBox="0 0 24 24" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
-                                        <circle cx="11.7669" cy="11.7666" r="8.98856" stroke="#F16A1B"
-                                            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></circle>
-                                        <path d="M18.0186 18.4851L21.5426 22" stroke="#F16A1B" stroke-width="1.5"
-                                            stroke-linecap="round" stroke-linejoin="round"></path>
-                                    </svg>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-12">
+                        <div class="col-12 mt-5">
                             <div class="card">
                                 <div class="card-body">
                                     <div class="table-responsive">

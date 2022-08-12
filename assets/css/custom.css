@@ -726,6 +726,9 @@ body.uikit .btn-download {
   background: #FAB428;
 }
 
+.mdl-button--fab:hover {
+  background: #fab428b5;
+}
 .mdl-button--fab_flinger-container.is-showing-options>button i {
   -webkit-transition: -webkit-transform 0.1s linear;
   transition: transform 0.1s linear;
