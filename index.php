@@ -26,7 +26,7 @@
                   <div class="col-md-10">
                      <div class="card card-transparent shadow-none d-flex justify-content-center mb-0 auth-card">
                         <div class="card-body">
-                           <a href="index.php" class="navbar-brand d-flex align-items-center mb-3">
+                           <a href="index.php" class="navbar-brand d-flex align-items-center justify-content-center mb-3">
                               <img src="assets/images/geomiel-logo.svg" alt="Geomiel">
                            </a>
                            <h2 class="mb-2 text-center">Ingresar</h2>

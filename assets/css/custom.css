@@ -855,3 +855,8 @@ body.uikit .btn-download {
 div.dataTables_wrapper div.dataTables_filter {
   text-align: left;
 }
+
+#tamborModal hr {
+  opacity: 1;
+  background: #FAB428;
+}

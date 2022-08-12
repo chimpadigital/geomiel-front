@@ -76,7 +76,7 @@
                                                     <th>Fecha</th>
                                                     <th>O/C</th>
                                                     <th>Proveedor</th>
-                                                    <th>Acciones</th>
+                                                    <th class="d-flex justify-content-center">Acciones</th>
                                                 </tr>
                                             </thead>
                                             <tbody>
@@ -84,7 +84,7 @@
                                                     <td>01/02/2022</td>
                                                     <td>023547</td>
                                                     <td>Tiger Nixon</td>
-                                                    <th>
+                                                    <th class="d-flex justify-content-center">
                                                         <div class="d-flex">
                                                             <a href="#"
                                                                 class="d-flex align-items-center justify-content-center me-4"
@@ -110,7 +110,7 @@
                                                     <td>01/02/2022</td>
                                                     <td>023547</td>
                                                     <td>Garrett Winters</td>
-                                                    <th>
+                                                    <th class="d-flex justify-content-center">
                                                         <div class="d-flex">
                                                             <a href="#"
                                                                 class="d-flex align-items-center justify-content-center me-4"
@@ -136,7 +136,7 @@
                                                     <td>01/02/2022</td>
                                                     <td>023547</td>
                                                     <td>Ashton Cox</td>
-                                                    <th>
+                                                    <th class="d-flex justify-content-center">
                                                         <div class="d-flex">
                                                             <a href="#"
                                                                 class="d-flex align-items-center justify-content-center me-4"
@@ -162,7 +162,7 @@
                                                     <td>01/02/2022</td>
                                                     <td>023547</td>
                                                     <td>Cedric Kelly</td>
-                                                    <th>
+                                                    <th class="d-flex justify-content-center">
                                                         <div class="d-flex">
                                                             <a href="#"
                                                                 class="d-flex align-items-center justify-content-center me-4"
@@ -188,7 +188,7 @@
                                                     <td>01/02/2022</td>
                                                     <td>023547</td>
                                                     <td>Airi Satou</td>
-                                                    <th>
+                                                    <th class="d-flex justify-content-center">
                                                         <div class="d-flex">
                                                             <a href="#"
                                                                 class="d-flex align-items-center justify-content-center me-4"
@@ -214,7 +214,7 @@
                                                     <td>01/02/2022</td>
                                                     <td>023547</td>
                                                     <td>Brielle Williamson</td>
-                                                    <th>
+                                                    <th class="d-flex justify-content-center">
                                                         <div class="d-flex">
                                                             <a href="#"
                                                                 class="d-flex align-items-center justify-content-center me-4"

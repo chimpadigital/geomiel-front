@@ -126,16 +126,28 @@
                                                             <div class="bar__fill" style="width: 66%;"></div>
                                                         </div>
                                                         <div class="point point--active">
-                                                            <div class="bullet"></div>
+                                                            <div class="bullet" data-bs-toggle="tooltip" data-bs-placement="top"
+                                                                data-bs-custom-class="custom-tooltip"
+                                                                data-bs-title="Treansporte">
+                                                            </div>
                                                         </div>
                                                         <div class="point point--active">
-                                                            <div class="bullet"></div>
+                                                            <div class="bullet" data-bs-toggle="tooltip" data-bs-placement="top"
+                                                                data-bs-custom-class="custom-tooltip"
+                                                                data-bs-title="Depósito">
+                                                            </div>
                                                         </div>
                                                         <div class="point point--active">
-                                                            <div class="bullet"></div>
+                                                            <div class="bullet" data-bs-toggle="tooltip" data-bs-placement="top"
+                                                                data-bs-custom-class="custom-tooltip"
+                                                                data-bs-title="Laboratorio">
+                                                            </div>
                                                         </div>
                                                         <div class="point">
-                                                            <div class="bullet"></div>
+                                                            <div class="bullet" data-bs-toggle="tooltip" data-bs-placement="top"
+                                                                data-bs-custom-class="custom-tooltip"
+                                                                data-bs-title="Venta">
+                                                            </div>
                                                         </div>
                                                     </div>
                                                 </td>
@@ -153,16 +165,28 @@
                                                             <div class="bar__fill" style="width: 33%;"></div>
                                                         </div>
                                                         <div class="point point--active">
-                                                            <div class="bullet"></div>
+                                                            <div class="bullet" data-bs-toggle="tooltip" data-bs-placement="top"
+                                                                data-bs-custom-class="custom-tooltip"
+                                                                data-bs-title="Treansporte">
+                                                            </div>
                                                         </div>
                                                         <div class="point point--active">
-                                                            <div class="bullet"></div>
+                                                            <div class="bullet" data-bs-toggle="tooltip" data-bs-placement="top"
+                                                                data-bs-custom-class="custom-tooltip"
+                                                                data-bs-title="Depósito">
+                                                            </div>
                                                         </div>
                                                         <div class="point">
-                                                            <div class="bullet"></div>
+                                                            <div class="bullet" data-bs-toggle="tooltip" data-bs-placement="top"
+                                                                data-bs-custom-class="custom-tooltip"
+                                                                data-bs-title="Laboratorio">
+                                                            </div>
                                                         </div>
                                                         <div class="point">
-                                                            <div class="bullet"></div>
+                                                            <div class="bullet" data-bs-toggle="tooltip" data-bs-placement="top"
+                                                                data-bs-custom-class="custom-tooltip"
+                                                                data-bs-title="Venta">
+                                                            </div>
                                                         </div>
                                                     </div>
                                                 </td>
@@ -180,16 +204,28 @@
                                                             <div class="bar__fill" style="width: 100%;"></div>
                                                         </div>
                                                         <div class="point point--active">
-                                                            <div class="bullet"></div>
+                                                            <div class="bullet" data-bs-toggle="tooltip" data-bs-placement="top"
+                                                                data-bs-custom-class="custom-tooltip"
+                                                                data-bs-title="Treansporte">
+                                                            </div>
                                                         </div>
                                                         <div class="point point--active">
-                                                            <div class="bullet"></div>
+                                                            <div class="bullet" data-bs-toggle="tooltip" data-bs-placement="top"
+                                                                data-bs-custom-class="custom-tooltip"
+                                                                data-bs-title="Depósito">
+                                                            </div>
                                                         </div>
                                                         <div class="point point--active">
-                                                            <div class="bullet"></div>
+                                                            <div class="bullet" data-bs-toggle="tooltip" data-bs-placement="top"
+                                                                data-bs-custom-class="custom-tooltip"
+                                                                data-bs-title="Laboratorio">
+                                                            </div>
                                                         </div>
                                                         <div class="point point--active">
-                                                            <div class="bullet"></div>
+                                                            <div class="bullet" data-bs-toggle="tooltip" data-bs-placement="top"
+                                                                data-bs-custom-class="custom-tooltip"
+                                                                data-bs-title="Venta">
+                                                            </div>
                                                         </div>
                                                     </div>
                                                 </td>

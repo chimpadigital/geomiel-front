@@ -75,14 +75,14 @@
                                                 <tr>
                                                     <th>Proveedor</th>
                                                     <th>CUIT</th>
-                                                    <th>Acciones</th>
+                                                    <th class="d-flex justify-content-center">Acciones</th>
                                                 </tr>
                                             </thead>
                                             <tbody>
                                                 <tr>
                                                     <td>Tiger Nixon</td>
                                                     <td>30-25352419-9</td>
-                                                    <td>
+                                                    <td class="d-flex justify-content-center">
                                                         <div class="d-flex">
                                                             <a href="#"
                                                                 class="d-flex align-items-center justify-content-center me-4"
@@ -114,7 +114,7 @@
                                                 <tr>
                                                     <td>Garrett Winters</td>
                                                     <td>33-25353319-9</td>
-                                                    <td>
+                                                    <td class="d-flex justify-content-center">
                                                         <div class="d-flex">
                                                             <a href="#"
                                                                 class="d-flex align-items-center justify-content-center me-4"
@@ -146,7 +146,7 @@
                                                 <tr>
                                                     <td>Ashton Cox</td>
                                                     <td>30-25322219-3</td>
-                                                    <td>
+                                                    <td class="d-flex justify-content-center">
                                                         <div class="d-flex">
                                                             <a href="#"
                                                                 class="d-flex align-items-center justify-content-center me-4"
@@ -178,7 +178,7 @@
                                                 <tr>
                                                     <td>Cedric Kelly</td>
                                                     <td>22-23452419-9</td>
-                                                    <td>
+                                                    <td class="d-flex justify-content-center">
                                                         <div class="d-flex">
                                                             <a href="#"
                                                                 class="d-flex align-items-center justify-content-center me-4"
@@ -210,7 +210,7 @@
                                                 <tr>
                                                     <td>Airi Satou</td>
                                                     <td>30-25352119-1</td>
-                                                    <td>
+                                                    <td class="d-flex justify-content-center">
                                                         <div class="d-flex">
                                                             <a href="#"
                                                                 class="d-flex align-items-center justify-content-center me-4"
@@ -242,7 +242,7 @@
                                                 <tr>
                                                     <td>Brielle Williamson</td>
                                                     <td>30-25300129-0</td>
-                                                    <td>
+                                                    <td class="d-flex justify-content-center">
                                                         <div class="d-flex">
                                                             <a href="#"
                                                                 class="d-flex align-items-center justify-content-center me-4"
