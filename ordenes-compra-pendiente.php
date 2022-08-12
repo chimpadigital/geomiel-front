@@ -69,8 +69,8 @@
                                                     <td>01/02/2022</td>
                                                     <td>023547</td>
                                                     <td>Tiger Nixon</td>
-                                                    <th class="d-flex justify-content-center">
-                                                        <div class="d-flex">
+                                                    <th>
+                                                        <div class="d-flex justify-content-center">
                                                             <a href="#"
                                                                 class="d-flex align-items-center justify-content-center me-4"
                                                                 data-bs-toggle="modal"
@@ -95,8 +95,8 @@
                                                     <td>01/02/2022</td>
                                                     <td>023547</td>
                                                     <td>Garrett Winters</td>
-                                                    <th class="d-flex justify-content-center">
-                                                        <div class="d-flex">
+                                                    <th>
+                                                        <div class="d-flex justify-content-center">
                                                             <a href="#"
                                                                 class="d-flex align-items-center justify-content-center me-4"
                                                                 data-bs-toggle="modal"
@@ -121,8 +121,8 @@
                                                     <td>01/02/2022</td>
                                                     <td>023547</td>
                                                     <td>Ashton Cox</td>
-                                                    <th class="d-flex justify-content-center">
-                                                        <div class="d-flex">
+                                                    <th>
+                                                        <div class="d-flex justify-content-center">
                                                             <a href="#"
                                                                 class="d-flex align-items-center justify-content-center me-4"
                                                                 data-bs-toggle="modal"
@@ -147,8 +147,8 @@
                                                     <td>01/02/2022</td>
                                                     <td>023547</td>
                                                     <td>Cedric Kelly</td>
-                                                    <th class="d-flex justify-content-center">
-                                                        <div class="d-flex">
+                                                    <th>
+                                                        <div class="d-flex justify-content-center">
                                                             <a href="#"
                                                                 class="d-flex align-items-center justify-content-center me-4"
                                                                 data-bs-toggle="modal"
@@ -173,8 +173,8 @@
                                                     <td>01/02/2022</td>
                                                     <td>023547</td>
                                                     <td>Airi Satou</td>
-                                                    <th class="d-flex justify-content-center">
-                                                        <div class="d-flex">
+                                                    <th>
+                                                        <div class="d-flex justify-content-center">
                                                             <a href="#"
                                                                 class="d-flex align-items-center justify-content-center me-4"
                                                                 data-bs-toggle="modal"
@@ -199,8 +199,8 @@
                                                     <td>01/02/2022</td>
                                                     <td>023547</td>
                                                     <td>Brielle Williamson</td>
-                                                    <th class="d-flex justify-content-center">
-                                                        <div class="d-flex">
+                                                    <th>
+                                                        <div class="d-flex justify-content-center">
                                                             <a href="#"
                                                                 class="d-flex align-items-center justify-content-center me-4"
                                                                 data-bs-toggle="modal"

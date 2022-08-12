@@ -69,8 +69,8 @@
                                                     <td>01/02/2022</td>
                                                     <td>023547</td>
                                                     <td>Tiger Nixon</td>
-                                                    <th class="d-flex justify-content-center">
-                                                        <div class="d-flex">
+                                                    <th>
+                                                        <div class="d-flex justify-content-center">
                                                             <a href="orden-entregada-detalle.php" target="_blank" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="assets/images/icon-eye.svg" width="22px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
@@ -84,8 +84,8 @@
                                                     <td>01/02/2022</td>
                                                     <td>023547</td>
                                                     <td>Garrett Winters</td>
-                                                    <th class="d-flex justify-content-center">
-                                                        <div class="d-flex">
+                                                    <th>
+                                                        <div class="d-flex justify-content-center">
                                                             <a href="orden-entregada-detalle.php" target="_blank" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="assets/images/icon-eye.svg" width="22px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
@@ -99,8 +99,8 @@
                                                     <td>01/02/2022</td>
                                                     <td>023547</td>
                                                     <td>Ashton Cox</td>
-                                                    <th class="d-flex justify-content-center">
-                                                        <div class="d-flex">
+                                                    <th>
+                                                        <div class="d-flex justify-content-center">
                                                             <a href="orden-entregada-detalle.php" target="_blank" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="assets/images/icon-eye.svg" width="22px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
@@ -114,8 +114,8 @@
                                                     <td>01/02/2022</td>
                                                     <td>023547</td>
                                                     <td>Cedric Kelly</td>
-                                                    <th class="d-flex justify-content-center">
-                                                        <div class="d-flex">
+                                                    <th>
+                                                        <div class="d-flex justify-content-center">
                                                             <a href="orden-entregada-detalle.php" target="_blank" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="assets/images/icon-eye.svg" width="22px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
@@ -129,8 +129,8 @@
                                                     <td>01/02/2022</td>
                                                     <td>023547</td>
                                                     <td>Airi Satou</td>
-                                                    <th class="d-flex justify-content-center">
-                                                        <div class="d-flex">
+                                                    <th>
+                                                        <div class="d-flex justify-content-center">
                                                             <a href="orden-entregada-detalle.php" target="_blank" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="assets/images/icon-eye.svg" width="22px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
@@ -144,8 +144,8 @@
                                                     <td>01/02/2022</td>
                                                     <td>023547</td>
                                                     <td>Brielle Williamson</td>
-                                                    <th class="d-flex justify-content-center">
-                                                        <div class="d-flex">
+                                                    <th>
+                                                        <div class="d-flex justify-content-center">
                                                             <a href="orden-entregada-detalle.php" target="_blank" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="assets/images/icon-eye.svg" width="22px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"

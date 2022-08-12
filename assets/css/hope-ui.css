@@ -19944,6 +19944,7 @@ body.offcanvas-active {
 }
 
 .card-slide {
+  min-width: 240px;
   height: auto;
 }
 

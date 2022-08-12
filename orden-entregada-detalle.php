@@ -136,15 +136,15 @@
                                                 </div>
                                             </div>
                                         </td>
-                                        <td class="d-flex justify-content-center">
-                                            <div class="d-flex">
+                                        <td>
+                                            <div class="d-flex justify-content-center">
                                                 <a href="#"
                                                     class="d-flex align-items-center justify-content-center me-4"
                                                     data-bs-toggle="modal" data-bs-target="#tamborModal">
                                                     <img src="assets/images/icon-eye.svg" width="18px"
                                                         data-bs-toggle="tooltip" data-bs-placement="top"
                                                         data-bs-custom-class="custom-tooltip"
-                                                        data-bs-title="Editar proveedor">
+                                                        data-bs-title="Ver tambor">
                                                 </a>
                                             </div>
                                         </td>
@@ -181,15 +181,15 @@
                                                 </div>
                                             </div>
                                         </td>
-                                        <td class="d-flex justify-content-center">
-                                            <div class="d-flex">
+                                        <td>
+                                            <div class="d-flex justify-content-center">
                                                 <a href="#"
                                                     class="d-flex align-items-center justify-content-center me-4"
                                                     data-bs-toggle="modal" data-bs-target="#tamborModal">
                                                     <img src="assets/images/icon-eye.svg" width="18px"
                                                         data-bs-toggle="tooltip" data-bs-placement="top"
                                                         data-bs-custom-class="custom-tooltip"
-                                                        data-bs-title="Editar proveedor">
+                                                        data-bs-title="Ver tambor">
                                                 </a>
                                             </div>
                                         </td>
@@ -226,15 +226,15 @@
                                                 </div>
                                             </div>
                                         </td>
-                                        <td class="d-flex justify-content-center">
-                                            <div class="d-flex">
+                                        <td>
+                                            <div class="d-flex justify-content-center">
                                                 <a href="#"
                                                     class="d-flex align-items-center justify-content-center me-4"
                                                     data-bs-toggle="modal" data-bs-target="#tamborModal">
                                                     <img src="assets/images/icon-eye.svg" width="18px"
                                                         data-bs-toggle="tooltip" data-bs-placement="top"
                                                         data-bs-custom-class="custom-tooltip"
-                                                        data-bs-title="Editar proveedor">
+                                                        data-bs-title="Ver tambor">
                                                 </a>
                                             </div>
                                         </td>
@@ -271,15 +271,15 @@
                                                 </div>
                                             </div>
                                         </td>
-                                        <td class="d-flex justify-content-center">
-                                            <div class="d-flex">
+                                        <td>
+                                            <div class="d-flex justify-content-center">
                                                 <a href="#"
                                                     class="d-flex align-items-center justify-content-center me-4"
                                                     data-bs-toggle="modal" data-bs-target="#tamborModal">
                                                     <img src="assets/images/icon-eye.svg" width="18px"
                                                         data-bs-toggle="tooltip" data-bs-placement="top"
                                                         data-bs-custom-class="custom-tooltip"
-                                                        data-bs-title="Editar proveedor">
+                                                        data-bs-title="Ver tambor">
                                                 </a>
                                             </div>
                                         </td>
@@ -316,15 +316,15 @@
                                                 </div>
                                             </div>
                                         </td>
-                                        <td class="d-flex justify-content-center">
-                                            <div class="d-flex">
+                                        <td>
+                                            <div class="d-flex justify-content-center">
                                                 <a href="#"
                                                     class="d-flex align-items-center justify-content-center me-4"
                                                     data-bs-toggle="modal" data-bs-target="#tamborModal">
                                                     <img src="assets/images/icon-eye.svg" width="18px"
                                                         data-bs-toggle="tooltip" data-bs-placement="top"
                                                         data-bs-custom-class="custom-tooltip"
-                                                        data-bs-title="Editar proveedor">
+                                                        data-bs-title="Ver tambor">
                                                 </a>
                                             </div>
                                         </td>
@@ -361,15 +361,15 @@
                                                 </div>
                                             </div>
                                         </td>
-                                        <td class="d-flex justify-content-center">
-                                            <div class="d-flex">
+                                        <td>
+                                            <div class="d-flex justify-content-center">
                                                 <a href="#"
                                                     class="d-flex align-items-center justify-content-center me-4"
                                                     data-bs-toggle="modal" data-bs-target="#tamborModal">
                                                     <img src="assets/images/icon-eye.svg" width="18px"
                                                         data-bs-toggle="tooltip" data-bs-placement="top"
                                                         data-bs-custom-class="custom-tooltip"
-                                                        data-bs-title="Editar proveedor">
+                                                        data-bs-title="Ver tambor">
                                                 </a>
                                             </div>
                                         </td>
