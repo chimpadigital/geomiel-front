@@ -48,7 +48,7 @@
                                     <div class="progress-detail">
                                         <h4 class="counter">85</h4>
                                         <p class="mb-0">Ordenes Pendientes</p>
-                                        <a href="#" class="d-flex align-items-center btn-link">Ver todos
+                                        <a href="ordenes-compra-pendiente.php" class="d-flex align-items-center btn-link">Ver todos
                                             <svg class="ms-2" width="7" height="12" viewBox="0 0 7 12" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
                                                 <path fill-rule="evenodd" clip-rule="evenodd"
@@ -66,8 +66,8 @@
                                 <div class="card-body d-flex align-items-center justify-content-around">
                                     <div class="progress-detail">
                                         <h4 class="counter">85</h4>
-                                        <p class="mb-0">Ordenes Pagas</p>
-                                        <a href="#" class="d-flex align-items-center btn-link">Ver todos
+                                        <p class="mb-0">Ordenes Entregadas</p>
+                                        <a href="ordenes-compra-entregada.php" class="d-flex align-items-center btn-link">Ver todos
                                             <svg class="ms-2" width="7" height="12" viewBox="0 0 7 12" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
                                                 <path fill-rule="evenodd" clip-rule="evenodd"
@@ -153,7 +153,7 @@
                                                 </td>
                                                 <td>En laboratorio</td>
                                                 <td class="d-flex justify-content-end"><a href="#"
-                                                        class="btn btn-primary">VER</a></td>
+                                                        class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#nueva-ordenModal">VER</a></td>
                                             </tr>
                                             <tr>
                                                 <td>
@@ -192,7 +192,7 @@
                                                 </td>
                                                 <td>En depósito</td>
                                                 <td class="d-flex justify-content-end"><a href="#"
-                                                        class="btn btn-primary">VER</a></td>
+                                                        class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#nueva-ordenModal">VER</a></td>
                                             </tr>
                                             <tr>
                                                 <td>
@@ -231,7 +231,7 @@
                                                 </td>
                                                 <td>En transporte</td>
                                                 <td class="d-flex justify-content-end"><a href="#"
-                                                        class="btn btn-primary">VER</a></td>
+                                                        class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#nueva-ordenModal">VER</a></td>
                                             </tr>
                                         </tbody>
                                     </table>
