@@ -26,7 +26,9 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="d-flex align-items-center">
-                                <img src="assets/images/icon-home-01.svg" alt="" width="60px">
+                                <div class="box-img">
+                                    <img src="assets/images/icon-home-01.svg" alt="" width="50%">
+                                </div>
                                 <h1 class="ms-2 mb-0">Bienvenido/a Nuevamente</h1>
                             </div>    
                         </div>

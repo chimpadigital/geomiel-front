@@ -27,7 +27,9 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="d-flex align-items-center">
-                                <img src="assets/images/icon-ordenes-de-compra.svg" alt="">
+                            <div class="box-img">
+                                <img src="assets/images/icon-ordenes-de-compra.svg" width="80%">
+                            </div>
                                 <h1 class="ms-2 mb-0">Órdenes de compra entregadas</h1>
                             </div>
                         </div>
@@ -43,7 +45,61 @@
             <div class="row">
                 <div class="col-md-12 bg-grey rounded">
                     <div class="row row-cols-1">
-                        <div class="col-12 mt-5">
+                        <div class="col-12 mt-5 mb-3">
+                            <div class="accordion" id="accordionExample">
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="flush-headingOne">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                                            Filtros
+                                        </button>
+                                    </h2>
+                                    <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                                        <div class="accordion-body">
+                                            <div class="row">
+                                                <div class="col-md-6 mb-3">
+                                                    <label class="form-label">Proveedor</label>
+                                                    <select class="form-select mb-3">
+                                                        <option selected=""></option>
+                                                        <option value="1">001 - </option>
+                                                        <option value="2">002 - </option>
+                                                        <option value="3">003 - </option>
+                                                    </select>
+                                                </div>
+                                                <div class="col-md-6 mb-3">
+                                                    <label for="cuit" class="form-label">CUIT</label>
+                                                    <input type="number" class="form-control" id="cuit">
+                                                </div>
+                                                <div class="col-md-3 mb-3">
+                                                    <label for="fecha" class="form-label">Fecha</label>
+                                                    <input type="text" class="form-control vanila-datepicker">
+                                                </div>
+                                                <div class="col-md-3 mb-3">
+                                                    <label for="comprador" class="form-label">Comprador</label>
+                                                    <input type="text" class="form-control" id="comprador">
+                                                </div>
+                                                <div class="col-md-3 mb-3">
+                                                    <label class="form-label">Tipo de pago</label>
+                                                    <select class="form-select mb-3">
+                                                        <option selected=""></option>
+                                                        <option value="1">001 - </option>
+                                                        <option value="2">002 - </option>
+                                                        <option value="3">003 - </option>
+                                                    </select>
+                                                </div>
+                                                <div class="col-md-3 mb-3">
+                                                    <div class="form-check">
+                                                        <p class="form-label">Pago anticipado</p>
+                                                        <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                        <label class="form-check-label" for="exampleCheck1">Si</label>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12">
                             <div class="card">
                                 <div class="card-body">
                                     <div class="table-responsive">
