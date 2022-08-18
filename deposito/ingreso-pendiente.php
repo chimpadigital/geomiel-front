@@ -131,10 +131,8 @@
                                                     <td>132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="#"
-                                                                class="d-flex align-items-center justify-content-center me-4"
-                                                                data-bs-toggle="modal"
-                                                                data-bs-target="#nueva-ordenModal">
+                                                            <a href="orden-detalle.php"
+                                                               target="_blanck" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="../assets/images/icon-edit.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                                     data-bs-custom-class="custom-tooltip"
@@ -159,10 +157,8 @@
                                                     <td>132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="#"
-                                                                class="d-flex align-items-center justify-content-center me-4"
-                                                                data-bs-toggle="modal"
-                                                                data-bs-target="#nueva-ordenModal">
+                                                            <a href="orden-detalle.php"
+                                                               target="_blanck" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="../assets/images/icon-edit.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                                     data-bs-custom-class="custom-tooltip"
@@ -187,10 +183,8 @@
                                                     <td>132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="#"
-                                                                class="d-flex align-items-center justify-content-center me-4"
-                                                                data-bs-toggle="modal"
-                                                                data-bs-target="#nueva-ordenModal">
+                                                            <a href="orden-detalle.php"
+                                                               target="_blanck" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="../assets/images/icon-edit.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                                     data-bs-custom-class="custom-tooltip"
@@ -215,10 +209,8 @@
                                                     <td>132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="#"
-                                                                class="d-flex align-items-center justify-content-center me-4"
-                                                                data-bs-toggle="modal"
-                                                                data-bs-target="#nueva-ordenModal">
+                                                            <a href="orden-detalle.php"
+                                                               target="_blanck" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="../assets/images/icon-edit.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                                     data-bs-custom-class="custom-tooltip"
@@ -243,10 +235,8 @@
                                                     <td>132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="#"
-                                                                class="d-flex align-items-center justify-content-center me-4"
-                                                                data-bs-toggle="modal"
-                                                                data-bs-target="#nueva-ordenModal">
+                                                            <a href="orden-detalle.php"
+                                                               target="_blanck" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="../assets/images/icon-edit.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                                     data-bs-custom-class="custom-tooltip"
@@ -271,10 +261,8 @@
                                                     <td>132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="#"
-                                                                class="d-flex align-items-center justify-content-center me-4"
-                                                                data-bs-toggle="modal"
-                                                                data-bs-target="#nueva-ordenModal">
+                                                            <a href="orden-detalle.php"
+                                                               target="_blanck" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="../assets/images/icon-edit.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                                     data-bs-custom-class="custom-tooltip"
@@ -299,10 +287,8 @@
                                                     <td>132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="#"
-                                                                class="d-flex align-items-center justify-content-center me-4"
-                                                                data-bs-toggle="modal"
-                                                                data-bs-target="#nueva-ordenModal">
+                                                            <a href="orden-detalle.php"
+                                                               target="_blanck" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="../assets/images/icon-edit.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                                     data-bs-custom-class="custom-tooltip"
@@ -327,10 +313,8 @@
                                                     <td>132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="#"
-                                                                class="d-flex align-items-center justify-content-center me-4"
-                                                                data-bs-toggle="modal"
-                                                                data-bs-target="#nueva-ordenModal">
+                                                            <a href="orden-detalle.php"
+                                                               target="_blanck" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="../assets/images/icon-edit.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                                     data-bs-custom-class="custom-tooltip"
@@ -355,10 +339,8 @@
                                                     <td>132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="#"
-                                                                class="d-flex align-items-center justify-content-center me-4"
-                                                                data-bs-toggle="modal"
-                                                                data-bs-target="#nueva-ordenModal">
+                                                            <a href="orden-detalle.php"
+                                                               target="_blanck" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="../assets/images/icon-edit.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                                     data-bs-custom-class="custom-tooltip"

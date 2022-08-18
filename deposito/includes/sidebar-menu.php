@@ -66,18 +66,90 @@
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="proveedores.php">
-                        <span class="item-name">Proveedores</span>
+                    <a class="nav-link" data-bs-toggle="collapse" href="#horizontal-menu-02" role="button"
+                        aria-expanded="false" aria-controls="horizontal-menu-02">
+                        <span class="item-name">Egresos</span>
+                        <i class="right-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="18" fill="none" viewBox="0 0 24 24"
+                                stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M9 5l7 7-7 7" />
+                            </svg>
+                        </i>
                     </a>
+                    <ul class="sub-nav collapse" id="horizontal-menu-02" data-bs-parent="#sidebar-menu">
+                        <li class="nav-item">
+                            <a class="nav-link" href="egreso-pendiente.php">
+                                <i class="icon">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="10" viewBox="0 0 24 24"
+                                        fill="currentColor">
+                                        <g>
+                                            <circle cx="12" cy="12" r="8" fill="#EEB899"></circle>
+                                        </g>
+                                    </svg>
+                                </i>
+                                <span class="item-name">Pendiente</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="egreso.php">
+                                <i class="icon">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="10" viewBox="0 0 24 24"
+                                        fill="currentColor">
+                                        <g>
+                                            <circle cx="12" cy="12" r="8" fill="#EEB899"></circle>
+                                        </g>
+                                    </svg>
+                                </i>
+                                <span class="item-name">Egresado</span>
+                            </a>
+                        </li>
+                    </ul>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="insumos.php">
-                        <span class="item-name">Insumos</span>
+                    <a class="nav-link" data-bs-toggle="collapse" href="#horizontal-menu-03" role="button"
+                        aria-expanded="false" aria-controls="horizontal-menu-03">
+                        <span class="item-name">Homogeneización</span>
+                        <i class="right-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="18" fill="none" viewBox="0 0 24 24"
+                                stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M9 5l7 7-7 7" />
+                            </svg>
+                        </i>
                     </a>
+                    <ul class="sub-nav collapse" id="horizontal-menu-03" data-bs-parent="#sidebar-menu">
+                        <li class="nav-item">
+                            <a class="nav-link" href="homogeneizacion-pendientes.php">
+                                <i class="icon">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="10" viewBox="0 0 24 24"
+                                        fill="currentColor">
+                                        <g>
+                                            <circle cx="12" cy="12" r="8" fill="#EEB899"></circle>
+                                        </g>
+                                    </svg>
+                                </i>
+                                <span class="item-name">Pendiente</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="homogeneizacion-fraccionado.php">
+                                <i class="icon">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="10" viewBox="0 0 24 24"
+                                        fill="currentColor">
+                                        <g>
+                                            <circle cx="12" cy="12" r="8" fill="#EEB899"></circle>
+                                        </g>
+                                    </svg>
+                                </i>
+                                <span class="item-name">Fraccionado</span>
+                            </a>
+                        </li>
+                    </ul>
                 </li>
             </ul>
         </div>
-    </div>
+    </div> 
     <div class="sidebar-footer d-flex flex-column align-items-center">
         <img src="../assets/images/img-bee-menu.svg">
         <a href="index.php">

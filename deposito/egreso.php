@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Geomiel | Ingresos</title>
+    <title>Geomiel | Egresos</title>
     <?php include 'includes/metas.php';?>
 </head>
 
@@ -28,9 +28,9 @@
                         <div class="col-md-12">
                             <div class="d-flex align-items-center">
                                 <div class="box-img">
-                                    <img src="../assets/images/icon-ingreso.svg" width="80%">
+                                    <img src="../assets/images/icon-egreso.svg" width="90%">
                                 </div>
-                                <h1 class="ms-2 mb-0">Ingresos</h1>
+                                <h1 class="ms-2 mb-0">Egresos</h1>
                             </div>
                         </div>
                     </div>
