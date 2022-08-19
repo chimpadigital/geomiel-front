@@ -3837,16 +3837,16 @@ fieldset:disabled .btn {
 
 .btn-secondary {
   color: #fff;
-  background-color: #6c757d;
-  border-color: #6c757d;
+  background-color: #FAB428;
+  border-color: #FAB428;
   -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0);
   box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0);
 }
 
 .btn-secondary:hover {
-  color: #fff;
-  background-color: #5c636a;
-  border-color: #565e64;
+  color: #FAB428;
+  background-color: #fff;
+  border-color: #FAB428;
 }
 
 .btn-check:focus+.btn-secondary,
@@ -15860,16 +15860,25 @@ fieldset:disabled .btn {
 
 .btn-secondary {
   color: #fff;
-  background-color: #6c757d;
-  border-color: #6c757d;
+  background-color: #FAB428;
+  border-color: #FAB428;
   -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0);
   box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0);
 }
 
 .btn-secondary:hover {
-  color: #fff;
-  background-color: #5c636a;
-  border-color: #565e64;
+  color: #FAB428;
+  background-color: #fff;
+  border-color: #FAB428;
+}
+
+
+.btn-secondary svg path {
+  transition: all .3s ease;
+}
+
+.btn-secondary:hover svg path {
+  fill: #FAB428;
 }
 
 .btn-check:focus+.btn-secondary,

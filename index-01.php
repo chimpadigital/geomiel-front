@@ -88,7 +88,7 @@
                         <div class="swiper-button swiper-button-prev"></div>
                     </div>
 
-                    <div class="col-md-12" id="search">
+                    <div class="col-md-12" id="search" data-aos="fade-up" data-aos-delay="600">
                         <h2 class="mb-3">Estado de órdenes activas</h2>
                         <div class="card card-body rounded-pill d-flex justify-content-around text-center py-3">
                             <div class="input-group search-input">

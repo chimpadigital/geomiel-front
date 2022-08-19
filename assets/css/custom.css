@@ -646,6 +646,24 @@ body.uikit .btn-download {
   border-color: #f1691bcb !important;
 }
 
+.btn-check:focus+.btn-primary, .btn-primary:focus {
+  color: #fff !important;
+  background: var(--bs-primary) !important;
+  border-color: var(--bs-primary) !important;
+}
+
+.btn-primary svg path, .btn-pin svg path {
+  transition: all .3s ease;
+}
+
+.btn-primary:hover svg path {
+  fill: var(--bs-primary);
+}
+
+.btn-pin:hover svg path {
+  fill: #FAB428;
+}
+
 .modal .btn-close {
   top: 10px;
   right: 10px;
@@ -888,4 +906,17 @@ div.dataTables_wrapper div.dataTables_filter {
 
 .accordion-button:not(.collapsed) {
   color: var(--bs-primary) !important;
+}
+
+.pin-active {
+  border: 3px solid #F2D69E;
+}
+.pin-active .btn-pin svg path {
+  fill: #FAB428;
+}
+.img-modal-map {
+  top: 10px;
+  right: 10px;
+  position: absolute;
+  transform: scaleX(-1);
 }
