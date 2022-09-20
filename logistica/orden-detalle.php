@@ -425,7 +425,7 @@
                 <div class="modal-body p-5">
                     <form>
                         <div class="row">
-                            <div class="col text-center mb-5 pe-5">
+                            <div class="col text-center mb-5">
                                 <div class="detail">
                                     <div class="d-flex flex-row">
                                         <div>
@@ -436,25 +436,25 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col text-center mb-5 pe-5">
+                            <div class="col text-center mb-5 px-5">
                                 <div class="detail">
                                     <div class="d-flex flex-row">
                                         <div>
-                                            <span class="text-dark text-start">Orden de compra</span>
-                                            <p class="text-start mt-1 mb-0">OC 25351</p>
+                                            <span class="text-dark text-start pe-5">Apicutor</span>
+                                            <p class="text-start mt-1 mb-0">Pablo Gomez</p>
                                         </div>
-                                        <img src="../assets/images/icon-provedor.svg" class="ms-2" width="50px" height="50px" alt="">
+                                        <img src="../assets/images/icon-provedor.svg" class="ms-5" width="50px" height="50px" alt="">
                                     </div>
                                 </div>
                             </div>
-                            <div class="col text-center mb-5 pe-5">
+                            <div class="col text-center mb-5">
                                 <div class="detail">
                                     <div class="d-flex flex-row">
                                         <div>
-                                            <span class="text-dark text-start">Orden de compra</span>
-                                            <p class="text-start mt-1 mb-0">OC 25351</p>
+                                            <span class="text-dark text-start pe-5">Productos</span>
+                                            <p class="text-start mt-1 mb-0">Tambor de miel</p>
                                         </div>
-                                        <img src="../assets/images/icon-equivalencias.svg" class="ms-2" width="50px" height="50px" alt="">
+                                        <img src="../assets/images/icon-equivalencias.svg" class="ms-3" width="50px" height="50px" alt="">
                                     </div>
                                 </div>
                             </div>
