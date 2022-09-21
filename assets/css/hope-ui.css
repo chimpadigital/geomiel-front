@@ -550,10 +550,19 @@ progress {
 .detail{ 
   padding: 1rem 0.2rem 1rem 1rem;
   background-color: rgb(255, 255, 255);
-  box-shadow: 0px 5px 10px 0.5px rgb(201, 196, 196);
+  box-shadow: -5px 5px 15px -0.1px rgb(246, 243, 243);
   border-radius: 5px;
   height: 6rem;
 
+}
+
+
+.succes-draw{
+  border: 1px solid #F16A1B;
+  border-radius: 8px;
+  color: #F16A1B;
+  font-size: x-large;
+  text-align: center;
 }
 
 .hrcolor {

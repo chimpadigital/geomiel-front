@@ -21,24 +21,26 @@
             <?php include 'includes/navbar.php';?>
             <div class="container">
                 <div class="card my-5 p-5">
-                    <div class="row mb-5">
-                        <div class="col-2 pe-0">
-                            <h1><strong>Detalle</strong></h1>
-                        </div>
-                        <div class="col-8 d-flex px-0">
-                                <a href="#" class="d-flex align-items-center justify-content-center me-2">
-                                   <img src="../assets/images/icon-download.svg" width="18px">
-                                </a>
-                                <a href="#" class="d-flex align-items-center justify-content-center">
-                                   <img src="../assets/images/icon-print.svg" width="18px">
-                                </a>
-                        </div>
-                        <div class="col-2  justify-content-end">
-                            <a href="" class="btn btn-primary">
+                <div class="d-flex justify-content-between">
+                        <div class="d-flex justify-content-start">
+                          <div class="pe-0">
+                              <h1><strong>Detalle</strong></h1>
+                          </div>
+                          <div class="d-flex ms-2 px-0">
+                            <a href="#" class="d-flex align-items-center justify-content-center me-2">
+                                <img src="../assets/images/icon-download.svg" width="18px">
+                            </a>
+                            <a href="#" class="d-flex align-items-center justify-content-center">
+                                <img src="../assets/images/icon-print.svg" width="18px">
+                            </a>
+                          </div>
+                        </div>                
+                        <div>
+                            <a href="" class="btn btn-primary  d-flex justify-content-center px-3" data-bs-toggle="modal" data-bs-target="#exampleModal">
                                 Llegada a las 9:50
                             </a>
-                            
                         </div>
+                    </div>
                     <div class="row mt-5">
                         <div class="col-4 mb-5">
                             <h5 class="mb-2 text-secondary">Fecha</h5>
@@ -59,7 +61,6 @@
                             <p class="text-dark">61565665456486</p>
                         </div>
                     </div>
-                    <div class="row">
                     <div class="row">
                             <div class="col-4 mb-5">
                                 <h5 class="mb-2 text-secondary">Ubicación</h5>
@@ -114,17 +115,17 @@
                             <table id="example" class="table table-striped">
                                 <thead>
                                     <tr>
-                                        <th>Comprobante</th>
-                                        <th>Tambores a retirar</th>
-                                        <th>Cera a retirar</th>
+                                        <th class="text-center">Comprobante</th>
+                                        <th class="text-center">Tambores a retirar</th>
+                                        <th class="text-center">Cera a retirar</th>
                                         <th class="d-flex justify-content-center">Observaciones</th>
                                     </tr>
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td>OC 26554</td>
-                                        <td>55 unidades</td>
-                                        <td>150 kilos</td>
+                                        <td class="text-center">OC 26554</td>
+                                        <td class="text-center">55 unidades</td>
+                                        <td class="text-center">150 kilos</td>
                                         <td>
                                             <div class="d-flex justify-content-center">
                                                 <a href="#"
@@ -139,9 +140,9 @@
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td>OC 26554</td>
-                                        <td>55 unidades</td>
-                                        <td>-</td>
+                                        <td class="text-center">OC 26554</td>
+                                        <td class="text-center">55 unidades</td>
+                                        <td class="text-center">-</td>
                                         <td>
                                             <div class="d-flex justify-content-center">
                                                 <a href="#"
@@ -166,17 +167,17 @@
                             <table id="example" class="table table-striped">
                                 <thead>
                                     <tr>
-                                        <th>Comprobante</th>
-                                        <th>Tambores a retirar</th>
-                                        <th>Cera a retirar</th>
+                                        <th class="text-center">Comprobante</th>
+                                        <th class="text-center">Tambores a retirar</th>
+                                        <th class="text-center">Cera a retirar</th>
                                         <th class="d-flex justify-content-center">Observaciones</th>
                                     </tr>
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td>OC 26554</td>
-                                        <td>Tambores nuevos</td>
-                                        <td>39 unidades</td>
+                                        <td class="text-center">OC 26554</td>
+                                        <td class="text-center">Tambores nuevos</td>
+                                        <td class="text-center">39 unidades</td>
                                         <td>
                                             <div class="d-flex justify-content-center">
                                                 <a href="#"
@@ -191,9 +192,9 @@
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td>OC 26554</td>
-                                        <td>Sombrero</td>
-                                        <td>1 unidad</td>
+                                        <td class="text-center">OC 26554</td>
+                                        <td class="text-center">Sombrero</td>
+                                        <td class="text-center">1 unidad</td>
                                         <td>
                                             <div class="d-flex justify-content-center">
                                                 <a href="#"
@@ -392,6 +393,28 @@
             </div>
         </div>
     </div>
+</div>
+
+<!-- Button trigger modal -->
+<!-- <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+  Launch demo modal
+</button> -->
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog succes-draw ">
+    <div class="modal-content py-5">
+      <div>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="d-flex flex-column align-items-center justify-content-center">
+      <div class="modal-body mt-4 py-5">
+        Realizado exitosamente
+      </div>
+      <img class="mb-5" src="../assets/images/check-circle-1.svg" alt="image exito" width="50px" height="50px">
+      </div>
+    </div>
+  </div>
 </div>
 
     <?php include 'includes/script.php';?>

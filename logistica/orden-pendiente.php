@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Geomiel | Ingresos Pendientes</title>
+    <title>Geomiel | Ordenes de retiro</title>
     <?php include 'includes/metas.php';?>
 </head>
 
@@ -28,9 +28,9 @@
                         <div class="col-md-12">
                             <div class="d-flex align-items-center">
                                 <div class="box-img">
-                                    <img src="../assets/images/icon-ingreso.svg" width="80%">
+                                    <img src="../assets/images/icon-shopping.svg" width="80%">
                                 </div>
-                                <h1 class="ms-2 mb-0">Ingresos</h1>
+                                <h1 class="ms-2 mb-0">Órdenes de retiro</h1>
                             </div>
                         </div>
                     </div>
@@ -63,21 +63,19 @@
                                         <table id="example" class="table table-striped" data-toggle="data-table">
                                             <thead>
                                                 <tr>
-                                                    <th>Fecha</th>
-                                                    <th>O/R</th>
-                                                    <th>O/C</th>
-                                                    <th>Tambores</th>
-                                                    <th>Cera</th>
-                                                    <th class="d-flex justify-content-center">Acciones</th>
+                                                    <th class="text-center">Fecha</th>
+                                                    <th class="text-center">O/C</th>
+                                                    <th class="text-center">Proveedores</th>
+                                                    <th class="text-center">Productos</th>
+                                                    <th></th>
                                                 </tr>
                                             </thead>
                                             <tbody>
                                                 <tr>
-                                                    <td>01/02/2022</td>
-                                                    <td>023547</td>
-                                                    <td>44762</td>
-                                                    <td>44</td>
-                                                    <td>132</td>
+                                                    <td class="text-center">01/02/2022</td>
+                                                    <td class="text-center">44762</td>
+                                                    <td class="text-center">44</td>
+                                                    <td class="text-center">132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
                                                             <a href="orden-detalle.php"
@@ -99,11 +97,10 @@
                                                     </th>
                                                 </tr>
                                                 <tr>
-                                                    <td>01/02/2022</td>
-                                                    <td>023547</td>
-                                                    <td>44762</td>
-                                                    <td>44</td>
-                                                    <td>132</td>
+                                                    <td class="text-center">01/02/2022</td>
+                                                    <td class="text-center">44762</td>
+                                                    <td class="text-center">44</td>
+                                                    <td class="text-center">132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
                                                             <a href="orden-detalle.php"
@@ -125,11 +122,10 @@
                                                     </th>
                                                 </tr>
                                                 <tr>
-                                                    <td>01/02/2022</td>
-                                                    <td>023547</td>
-                                                    <td>44762</td>
-                                                    <td>44</td>
-                                                    <td>132</td>
+                                                    <td class="text-center">01/02/2022</td>
+                                                    <td class="text-center">44762</td>
+                                                    <td class="text-center">44</td>
+                                                    <td class="text-center">132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
                                                             <a href="orden-detalle.php"
@@ -151,11 +147,10 @@
                                                     </th>
                                                 </tr>
                                                 <tr>
-                                                    <td>01/02/2022</td>
-                                                    <td>023547</td>
-                                                    <td>44762</td>
-                                                    <td>44</td>
-                                                    <td>132</td>
+                                                    <td class="text-center">01/02/2022</td>
+                                                    <td class="text-center">44762</td>
+                                                    <td class="text-center">44</td>
+                                                    <td class="text-center">132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
                                                             <a href="orden-detalle.php"
@@ -177,11 +172,10 @@
                                                     </th>
                                                 </tr>
                                                 <tr>
-                                                    <td>01/02/2022</td>
-                                                    <td>023547</td>
-                                                    <td>44762</td>
-                                                    <td>44</td>
-                                                    <td>132</td>
+                                                    <td class="text-center">01/02/2022</td>
+                                                    <td class="text-center">44762</td>
+                                                    <td class="text-center">44</td>
+                                                    <td class="text-center">132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
                                                             <a href="orden-detalle.php"
@@ -203,11 +197,10 @@
                                                     </th>
                                                 </tr>
                                                 <tr>
-                                                    <td>01/02/2022</td>
-                                                    <td>023547</td>
-                                                    <td>44762</td>
-                                                    <td>44</td>
-                                                    <td>132</td>
+                                                    <td class="text-center">01/02/2022</td>
+                                                    <td class="text-center">44762</td>
+                                                    <td class="text-center">44</td>
+                                                    <td class="text-center">132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
                                                             <a href="orden-detalle.php"
@@ -229,11 +222,10 @@
                                                     </th>
                                                 </tr>
                                                 <tr>
-                                                    <td>01/02/2022</td>
-                                                    <td>023547</td>
-                                                    <td>44762</td>
-                                                    <td>44</td>
-                                                    <td>132</td>
+                                                    <td class="text-center">01/02/2022</td>
+                                                    <td class="text-center">44762</td>
+                                                    <td class="text-center">44</td>
+                                                    <td class="text-center">132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
                                                             <a href="orden-detalle.php"
@@ -255,11 +247,10 @@
                                                     </th>
                                                 </tr>
                                                 <tr>
-                                                    <td>01/02/2022</td>
-                                                    <td>023547</td>
-                                                    <td>44762</td>
-                                                    <td>44</td>
-                                                    <td>132</td>
+                                                    <td class="text-center">01/02/2022</td>
+                                                    <td class="text-center">44762</td>
+                                                    <td class="text-center">44</td>
+                                                    <td class="text-center">132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
                                                             <a href="orden-detalle.php"
@@ -281,11 +272,10 @@
                                                     </th>
                                                 </tr>
                                                 <tr>
-                                                    <td>01/02/2022</td>
-                                                    <td>023547</td>
-                                                    <td>44762</td>
-                                                    <td>44</td>
-                                                    <td>132</td>
+                                                    <td class="text-center">01/02/2022</td>
+                                                    <td class="text-center">44762</td>
+                                                    <td class="text-center">44</td>
+                                                    <td class="text-center">132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
                                                             <a href="orden-detalle.php"

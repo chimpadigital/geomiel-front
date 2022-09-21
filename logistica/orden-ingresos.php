@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Geomiel | Ingresos</title>
+    <title>Geomiel | Entregados</title>
     <?php include 'includes/metas.php';?>
 </head>
 
@@ -30,7 +30,7 @@
                                 <div class="box-img">
                                     <img src="../assets/images/icon-ingreso.svg" width="80%">
                                 </div>
-                                <h1 class="ms-2 mb-0">Ingresos</h1>
+                                <h1 class="ms-2 mb-0">Entregados</h1>
                             </div>
                         </div>
                     </div>
@@ -63,245 +63,163 @@
                                         <table id="example" class="table table-striped" data-toggle="data-table">
                                             <thead>
                                                 <tr>
-                                                    <th>Fecha</th>
-                                                    <th>O/R</th>
-                                                    <th>O/C</th>
-                                                    <th>Tambores</th>
-                                                    <th>Cera</th>
-                                                    <th class="d-flex justify-content-center">Acciones</th>
+                                                    <th class="text-center">Fecha</th>
+                                                    <th class="text-center">O/C</th>
+                                                    <th class="text-center">Proveedores</th>
+                                                    <th class="text-center">Productos</th>
+                                                    <th></th>
                                                 </tr>
                                             </thead>
                                             <tbody>
                                                 <tr>
-                                                    <td>01/02/2022</td>
-                                                    <td>023547</td>
-                                                    <td>44762</td>
-                                                    <td>44</td>
-                                                    <td>132</td>
+                                                    <td class="text-center">01/02/2022</td>
+                                                    <td class="text-center">44762</td>
+                                                    <td class="text-center">44</td>
+                                                    <td class="text-center">132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="orden-detalle.php"
+                                                        <a href="orden-detalle-3.php"
                                                                target="_blanck" class="d-flex align-items-center justify-content-center me-4">
-                                                                <img src="../assets/images/icon-edit.svg" width="18px"
+                                                                <img src="../assets/images/icon-eye.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                                     data-bs-custom-class="custom-tooltip"
                                                                     data-bs-title="Editar orden">
-                                                            </a>
-                                                            <a href="#"
-                                                                class="d-flex align-items-center justify-content-center">
-                                                                <img src="../assets/images/icon-delete-table.svg"
-                                                                    width="18px" data-bs-toggle="tooltip"
-                                                                    data-bs-placement="top"
-                                                                    data-bs-custom-class="custom-tooltip"
-                                                                    data-bs-title="Eliminar proveedor">
                                                             </a>
                                                         </div>
                                                     </th>
                                                 </tr>
                                                 <tr>
-                                                    <td>01/02/2022</td>
-                                                    <td>023547</td>
-                                                    <td>44762</td>
-                                                    <td>44</td>
-                                                    <td>132</td>
+                                                    <td class="text-center">01/02/2022</td>
+                                                    <td class="text-center">44762</td>
+                                                    <td class="text-center">44</td>
+                                                    <td class="text-center">132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="orden-detalle.php"
+                                                        <a href="orden-detalle-3.php"
                                                                target="_blanck" class="d-flex align-items-center justify-content-center me-4">
-                                                                <img src="../assets/images/icon-edit.svg" width="18px"
+                                                                <img src="../assets/images/icon-eye.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                                     data-bs-custom-class="custom-tooltip"
                                                                     data-bs-title="Editar orden">
-                                                            </a>
-                                                            <a href="#"
-                                                                class="d-flex align-items-center justify-content-center">
-                                                                <img src="../assets/images/icon-delete-table.svg"
-                                                                    width="18px" data-bs-toggle="tooltip"
-                                                                    data-bs-placement="top"
-                                                                    data-bs-custom-class="custom-tooltip"
-                                                                    data-bs-title="Eliminar proveedor">
                                                             </a>
                                                         </div>
                                                     </th>
                                                 </tr>
                                                 <tr>
-                                                    <td>01/02/2022</td>
-                                                    <td>023547</td>
-                                                    <td>44762</td>
-                                                    <td>44</td>
-                                                    <td>132</td>
+                                                    <td class="text-center">01/02/2022</td>
+                                                    <td class="text-center">44762</td>
+                                                    <td class="text-center">44</td>
+                                                    <td class="text-center">132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="orden-detalle.php"
+                                                        <a href="orden-detalle-3.php"
                                                                target="_blanck" class="d-flex align-items-center justify-content-center me-4">
-                                                                <img src="../assets/images/icon-edit.svg" width="18px"
+                                                                <img src="../assets/images/icon-eye.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                                     data-bs-custom-class="custom-tooltip"
                                                                     data-bs-title="Editar orden">
-                                                            </a>
-                                                            <a href="#"
-                                                                class="d-flex align-items-center justify-content-center">
-                                                                <img src="../assets/images/icon-delete-table.svg"
-                                                                    width="18px" data-bs-toggle="tooltip"
-                                                                    data-bs-placement="top"
-                                                                    data-bs-custom-class="custom-tooltip"
-                                                                    data-bs-title="Eliminar proveedor">
                                                             </a>
                                                         </div>
                                                     </th>
                                                 </tr>
                                                 <tr>
-                                                    <td>01/02/2022</td>
-                                                    <td>023547</td>
-                                                    <td>44762</td>
-                                                    <td>44</td>
-                                                    <td>132</td>
+                                                    <td class="text-center">01/02/2022</td>
+                                                    <td class="text-center">44762</td>
+                                                    <td class="text-center">44</td>
+                                                    <td class="text-center">132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="orden-detalle.php"
+                                                        <a href="orden-detalle-3.php"
                                                                target="_blanck" class="d-flex align-items-center justify-content-center me-4">
-                                                                <img src="../assets/images/icon-edit.svg" width="18px"
+                                                                <img src="../assets/images/icon-eye.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                                     data-bs-custom-class="custom-tooltip"
                                                                     data-bs-title="Editar orden">
-                                                            </a>
-                                                            <a href="#"
-                                                                class="d-flex align-items-center justify-content-center">
-                                                                <img src="../assets/images/icon-delete-table.svg"
-                                                                    width="18px" data-bs-toggle="tooltip"
-                                                                    data-bs-placement="top"
-                                                                    data-bs-custom-class="custom-tooltip"
-                                                                    data-bs-title="Eliminar proveedor">
                                                             </a>
                                                         </div>
                                                     </th>
                                                 </tr>
                                                 <tr>
-                                                    <td>01/02/2022</td>
-                                                    <td>023547</td>
-                                                    <td>44762</td>
-                                                    <td>44</td>
-                                                    <td>132</td>
+                                                    <td class="text-center">01/02/2022</td>
+                                                    <td class="text-center">44762</td>
+                                                    <td class="text-center">44</td>
+                                                    <td class="text-center">132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="orden-detalle.php"
+                                                        <a href="orden-detalle-3.php"
                                                                target="_blanck" class="d-flex align-items-center justify-content-center me-4">
-                                                                <img src="../assets/images/icon-edit.svg" width="18px"
+                                                                <img src="../assets/images/icon-eye.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                                     data-bs-custom-class="custom-tooltip"
                                                                     data-bs-title="Editar orden">
-                                                            </a>
-                                                            <a href="#"
-                                                                class="d-flex align-items-center justify-content-center">
-                                                                <img src="../assets/images/icon-delete-table.svg"
-                                                                    width="18px" data-bs-toggle="tooltip"
-                                                                    data-bs-placement="top"
-                                                                    data-bs-custom-class="custom-tooltip"
-                                                                    data-bs-title="Eliminar proveedor">
                                                             </a>
                                                         </div>
                                                     </th>
                                                 </tr>
                                                 <tr>
-                                                    <td>01/02/2022</td>
-                                                    <td>023547</td>
-                                                    <td>44762</td>
-                                                    <td>44</td>
-                                                    <td>132</td>
+                                                    <td class="text-center">01/02/2022</td>
+                                                    <td class="text-center">44762</td>
+                                                    <td class="text-center">44</td>
+                                                    <td class="text-center">132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="orden-detalle.php"
+                                                        <a href="orden-detalle-3.php"
                                                                target="_blanck" class="d-flex align-items-center justify-content-center me-4">
-                                                                <img src="../assets/images/icon-edit.svg" width="18px"
+                                                                <img src="../assets/images/icon-eye.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                                     data-bs-custom-class="custom-tooltip"
                                                                     data-bs-title="Editar orden">
-                                                            </a>
-                                                            <a href="#"
-                                                                class="d-flex align-items-center justify-content-center">
-                                                                <img src="../assets/images/icon-delete-table.svg"
-                                                                    width="18px" data-bs-toggle="tooltip"
-                                                                    data-bs-placement="top"
-                                                                    data-bs-custom-class="custom-tooltip"
-                                                                    data-bs-title="Eliminar proveedor">
                                                             </a>
                                                         </div>
                                                     </th>
                                                 </tr>
                                                 <tr>
-                                                    <td>01/02/2022</td>
-                                                    <td>023547</td>
-                                                    <td>44762</td>
-                                                    <td>44</td>
-                                                    <td>132</td>
+                                                    <td class="text-center">01/02/2022</td>
+                                                    <td class="text-center">44762</td>
+                                                    <td class="text-center">44</td>
+                                                    <td class="text-center">132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="orden-detalle.php"
+                                                        <a href="orden-detalle-3.php"
                                                                target="_blanck" class="d-flex align-items-center justify-content-center me-4">
-                                                                <img src="../assets/images/icon-edit.svg" width="18px"
+                                                                <img src="../assets/images/icon-eye.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                                     data-bs-custom-class="custom-tooltip"
                                                                     data-bs-title="Editar orden">
-                                                            </a>
-                                                            <a href="#"
-                                                                class="d-flex align-items-center justify-content-center">
-                                                                <img src="../assets/images/icon-delete-table.svg"
-                                                                    width="18px" data-bs-toggle="tooltip"
-                                                                    data-bs-placement="top"
-                                                                    data-bs-custom-class="custom-tooltip"
-                                                                    data-bs-title="Eliminar proveedor">
                                                             </a>
                                                         </div>
                                                     </th>
                                                 </tr>
                                                 <tr>
-                                                    <td>01/02/2022</td>
-                                                    <td>023547</td>
-                                                    <td>44762</td>
-                                                    <td>44</td>
-                                                    <td>132</td>
+                                                    <td class="text-center">01/02/2022</td>
+                                                    <td class="text-center">44762</td>
+                                                    <td class="text-center">44</td>
+                                                    <td class="text-center">132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="orden-detalle.php"
+                                                        <a href="orden-detalle-3.php"
                                                                target="_blanck" class="d-flex align-items-center justify-content-center me-4">
-                                                                <img src="../assets/images/icon-edit.svg" width="18px"
+                                                                <img src="../assets/images/icon-eye.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                                     data-bs-custom-class="custom-tooltip"
                                                                     data-bs-title="Editar orden">
-                                                            </a>
-                                                            <a href="#"
-                                                                class="d-flex align-items-center justify-content-center">
-                                                                <img src="../assets/images/icon-delete-table.svg"
-                                                                    width="18px" data-bs-toggle="tooltip"
-                                                                    data-bs-placement="top"
-                                                                    data-bs-custom-class="custom-tooltip"
-                                                                    data-bs-title="Eliminar proveedor">
                                                             </a>
                                                         </div>
                                                     </th>
                                                 </tr>
                                                 <tr>
-                                                    <td>01/02/2022</td>
-                                                    <td>023547</td>
-                                                    <td>44762</td>
-                                                    <td>44</td>
-                                                    <td>132</td>
+                                                    <td class="text-center">01/02/2022</td>
+                                                    <td class="text-center">44762</td>
+                                                    <td class="text-center">44</td>
+                                                    <td class="text-center">132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="orden-detalle.php"
+                                                            <a href="orden-detalle-3.php"
                                                                target="_blanck" class="d-flex align-items-center justify-content-center me-4">
-                                                                <img src="../assets/images/icon-edit.svg" width="18px"
+                                                                <img src="../assets/images/icon-eye.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                                     data-bs-custom-class="custom-tooltip"
                                                                     data-bs-title="Editar orden">
-                                                            </a>
-                                                            <a href="#"
-                                                                class="d-flex align-items-center justify-content-center">
-                                                                <img src="../assets/images/icon-delete-table.svg"
-                                                                    width="18px" data-bs-toggle="tooltip"
-                                                                    data-bs-placement="top"
-                                                                    data-bs-custom-class="custom-tooltip"
-                                                                    data-bs-title="Eliminar proveedor">
                                                             </a>
                                                         </div>
                                                     </th>

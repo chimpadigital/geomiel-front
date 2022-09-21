@@ -60,7 +60,7 @@
                                         </g>
                                     </svg>
                                 </i>
-                                <span class="item-name">Ingresado</span>
+                                <span class="item-name">Entregados</span>
                             </a>
                         </li>
                     </ul>

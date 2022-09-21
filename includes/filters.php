@@ -15,7 +15,7 @@
                         <label class="form-label">Proveedor</label>
                         <div class="input-group">
                             <span class="input-group-text" id="basic-addon1">
-                                <img src="assets/images/icon-input-proveedor.svg" alt="">
+                                <img src="../assets/images/icon-input-proveedor.svg" alt="">
                             </span>
                             <select class="form-select">
                                 <option selected=""></option>
@@ -26,10 +26,10 @@
                         </div>
                     </div>
                     <div class="col-md-6 d-flex flex-column mb-3">
-                        <label class="form-label">CUIT</label>
+                        <label class="form-label">Producto</label>
                         <div class="input-group">
                             <span class="input-group-text" id="basic-addon1">
-                            <img src="assets/images/icon-input-cuit.svg" alt="">
+                            <img src="../assets/images/tambor.svg" alt="">
                             </span>
                             <input type="number" class="form-control" aria-describedby="basic-addon1">
                         </div>
@@ -38,42 +38,39 @@
                         <label class="form-label">Fecha</label>
                         <div class="input-group">
                             <span class="input-group-text" id="basic-addon1">
-                            <img src="assets/images/icon-input-fecha.svg" alt="">
+                            <img src="../assets/images/icon-input-fecha.svg" alt="">
                             </span>
                             <input type="text" class="form-control vanila-datepicker" aria-describedby="basic-addon1">
                         </div>
                     </div>
             
                     <div class="col-md-3 d-flex flex-column mb-3">
-                        <label class="form-label">Comprador</label>
+                        <label class="form-label">Desde</label>
                         <div class="input-group">
                             <span class="input-group-text" id="basic-addon1">
-                            <img src="assets/images/icon-input-comprador.svg" alt="">
+                            <img src="../assets/images/icon-input-fecha.svg" alt="">
                             </span>
-                            <input type="text" class="form-control" aria-describedby="basic-addon1">
+                            <input type="text" class="form-control vanila-datepicker" aria-describedby="basic-addon1">
                         </div>
                     </div>
 
                     <div class="col-md-3 d-flex flex-column mb-3">
-                        <label class="form-label">Tipo de pago</label>
+                        <label class="form-label">Hasta</label>
                         <div class="input-group">
                             <span class="input-group-text" id="basic-addon1">
-                                <img src="assets/images/icon-moneda-input.svg" alt="">
+                                <img src="../assets/images/icon-input-fecha.svg" alt="">
                             </span>
-                            <select class="form-select">
-                                <option selected=""></option>
-                                <option value="1">001 - </option>
-                                <option value="2">002 - </option>
-                                <option value="3">003 - </option>
-                            </select>
+                            <input type="text" class="form-control vanila-datepicker" aria-describedby="basic-addon1">
                         </div>
                     </div>
 
-                    <div class="col-md-3 mb-3">
-                        <div class="form-check">
-                            <p class="form-label">Pago anticipado</p>
-                            <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                            <label class="form-check-label" for="exampleCheck1">Si</label>
+                    <div class="col-md-3 d-flex flex-column mb-3">
+                        <label class="form-label">O/C</label>
+                        <div class="input-group">
+                            <span class="input-group-text" id="basic-addon1">
+                                <img src="../assets/images/icon-input-cuit.svg" alt="">
+                            </span>
+                            <input type="text" class="form-control" aria-describedby="basic-addon1">
                         </div>
                     </div>
                 </div>

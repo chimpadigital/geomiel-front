@@ -21,20 +21,22 @@
             <?php include 'includes/navbar.php';?>
             <div class="container">
                 <div class="card my-5 p-5">
-                    <div class="row mb-5">
-                        <div class="col-2 pe-0">
-                            <h1><strong>Detalle</strong></h1>
-                        </div>
-                        <div class="col-8 d-flex px-0">
+                    <div class="d-flex justify-content-between">
+                        <div class="d-flex justify-content-start">
+                          <div class="pe-0">
+                              <h1><strong>Detalle</strong></h1>
+                          </div>
+                          <div class="d-flex ms-2 px-0">
                             <a href="#" class="d-flex align-items-center justify-content-center me-2">
                                 <img src="../assets/images/icon-download.svg" width="18px">
                             </a>
                             <a href="#" class="d-flex align-items-center justify-content-center">
                                 <img src="../assets/images/icon-print.svg" width="18px">
                             </a>
+                          </div>
                         </div>
-                        <div class="col-2  justify-content-end">
-                            <a href="" class="btn btn-secondary d-flex justify-content-center px-1" data-bs-toggle="modal" data-bs-target="#nueva-ordenModal">
+                        <div>
+                            <a href="" class="btn btn-secondary d-flex justify-content-center px-3" data-bs-toggle="modal" data-bs-target="#nueva-ordenModal">
                                 <svg class="me-2" width="20" height="21" viewBox="0 0 20 21" fill="none"
                                     xmlns="http://www.w3.org/2000/svg">
                                     <g clip-path="url(#clip0_2530_34177)">
@@ -53,6 +55,7 @@
                                 Iniciar Retiro
                             </a>
                         </div>
+                    </div>
                         <div class="row mt-5">
                             <div class="col-4 mb-5">
                                 <h5 class="mb-2 text-secondary">Fecha</h5>
@@ -127,46 +130,24 @@
                                 <table id="example" class="table table-striped">
                                     <thead>
                                         <tr>
-                                            <th>Comprobante</th>
-                                            <th>Tambores a retirar</th>
-                                            <th>Cera a retirar</th>
+                                            <th class="text-center">Comprobante</th>
+                                            <th class="text-center">Tambores a retirar</th>
+                                            <th class="text-center">Cera a retirar</th>
                                             <th class="d-flex justify-content-center">Observaciones</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>OC 26554</td>
-                                            <td>55 unidades</td>
-                                            <td>150 kilos</td>
-                                            <td>
-                                                <div class="d-flex justify-content-center">
-                                                    <a href="#"
-                                                        class="d-flex align-items-center justify-content-center me-4"
-                                                        data-bs-toggle="modal" data-bs-target="#tamborModal">
-                                                        <img src="../assets/images/icon-eye.svg" width="18px"
-                                                            data-bs-toggle="tooltip" data-bs-placement="top"
-                                                            data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver tambor">
-                                                    </a>
-                                                </div>
-                                            </td>
+                                            <td class="text-center">OC 26554</td>
+                                            <td class="text-center">55 unidades</td>
+                                            <td class="text-center">150 kilos</td>
+                                            <td class="text-center">-</td>
                                         </tr>
                                         <tr>
-                                            <td>OC 26554</td>
-                                            <td>55 unidades</td>
-                                            <td>-</td>
-                                            <td>
-                                                <div class="d-flex justify-content-center">
-                                                    <a href="#"
-                                                        class="d-flex align-items-center justify-content-center me-4"
-                                                        data-bs-toggle="modal" data-bs-target="#tamborModal">
-                                                        <img src="../assets/images/icon-eye.svg" width="18px"
-                                                            data-bs-toggle="tooltip" data-bs-placement="top"
-                                                            data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver tambor">
-                                                    </a>
-                                                </div>
-                                            </td>
+                                            <td class="text-center">OC 26554</td>
+                                            <td class="text-center">55 unidades</td>
+                                            <td class="text-center">-</td>
+                                            <td class="text-center">-</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -179,46 +160,24 @@
                                         <table id="example" class="table table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th>Comprobante</th>
-                                                    <th>Tambores a retirar</th>
-                                                    <th>Cera a retirar</th>
+                                                    <th class="text-center">Comprobante</th>
+                                                    <th class="text-center">Tambores a retirar</th>
+                                                    <th class="text-center">Cera a retirar</th>
                                                     <th class="d-flex justify-content-center">Observaciones</th>
                                                 </tr>
                                             </thead>
                                             <tbody>
                                                 <tr>
-                                                    <td>OC 26554</td>
-                                                    <td>Tambores nuevos</td>
-                                                    <td>39 unidades</td>
-                                                    <td>
-                                                        <div class="d-flex justify-content-center">
-                                                            <a href="#"
-                                                                class="d-flex align-items-center justify-content-center me-4"
-                                                                data-bs-toggle="modal" data-bs-target="#tamborModal">
-                                                                <img src="../assets/images/icon-eye.svg" width="18px"
-                                                                    data-bs-toggle="tooltip" data-bs-placement="top"
-                                                                    data-bs-custom-class="custom-tooltip"
-                                                                    data-bs-title="Ver tambor">
-                                                            </a>
-                                                        </div>
-                                                    </td>
+                                                    <td class="text-center">OC 26554</td>
+                                                    <td class="text-center">Tambores nuevos</td>
+                                                    <td class="text-center">39 unidades</td>
+                                                    <td class="text-center">-</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>OC 26554</td>
-                                                    <td>Sombrero</td>
-                                                    <td>1 unidad</td>
-                                                    <td>
-                                                        <div class="d-flex justify-content-center">
-                                                            <a href="#"
-                                                                class="d-flex align-items-center justify-content-center me-4"
-                                                                data-bs-toggle="modal" data-bs-target="#tamborModal">
-                                                                <img src="../assets/images/icon-eye.svg" width="18px"
-                                                                    data-bs-toggle="tooltip" data-bs-placement="top"
-                                                                    data-bs-custom-class="custom-tooltip"
-                                                                    data-bs-title="Ver tambor">
-                                                            </a>
-                                                        </div>
-                                                    </td>
+                                                    <td class="text-center">OC 26554</td>
+                                                    <td class="text-center">Sombrero</td>
+                                                    <td class="text-center">1 unidad</td>
+                                                    <td class="text-center">-</td>
                                                 </tr>
                                             </tbody>
                                         </table>
@@ -411,8 +370,23 @@
         </div>
     </div>
 
+    <!--MODAL VENTANA-->
 
-
+    <div class="modal fade" id="ventanaExito" tabindex="-1" aria-labelledby="ventanaExitoLabel" aria-hidden="true">
+  <div class="modal-dialog succes-draw ">
+    <div class="modal-content py-5">
+      <div>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="d-flex flex-column align-items-center justify-content-center">
+      <div class="modal-body mt-4 py-5">
+        Realizado exitosamente
+      </div>
+      <img class="mb-5" src="../assets/images/check-circle-1.svg" alt="image exito" width="50px" height="50px">
+      </div>
+    </div>
+  </div>
+</div>
 
     <!-- MODAL -->
     <div class="modal fade" id="nueva-ordenModal" tabindex="-1" aria-labelledby="nueva-ordenModalLabel" aria-hidden="true">
@@ -459,7 +433,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="modal-body p-5">
+                        <div class="modal-body p-0">
                             <div class="d-flex flex-row justify-content-between">
                                 <div>
                                  <p>Detalle - Tambor 1/5</p>
@@ -513,18 +487,7 @@
                                     <label class="form-label"></label>
                                     <div class="input-group">
                                         <span class="input-group-text" id="basic-addon1">
-                                            <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <g clip-path="url(#clip0_2570_41921)">
-                                                <path d="M2.02216 8C2.02216 9.0375 4.71733 9.875 8.08628 9.875C11.4552 9.875 14.1504 9.0375 14.1504 8" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                                <path d="M8.08628 5.5C4.73716 5.5 2.02216 4.66053 2.02216 3.625C2.02216 2.58947 4.73716 1.75 8.08628 1.75C11.4354 1.75 14.1504 2.58947 14.1504 3.625C14.1504 4.66053 11.4354 5.5 8.08628 5.5Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                                <path d="M14.1504 3.625V12.375C14.1504 13.4125 11.4552 14.25 8.08628 14.25C4.71733 14.25 2.02216 13.4125 2.02216 12.375V3.625" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                                </g>
-                                                <defs>
-                                                <clipPath id="clip0_2570_41921">
-                                                <rect width="16.171" height="15" fill="white" transform="matrix(-1 0 0 1 16.1719 0.5)"/>
-                                                </clipPath>
-                                                </defs>
-                                                </svg>                                                
+                                        <img src="../assets/images/tambor.svg" alt="">       
                                         </span>
                                         <select class="form-select">
                                             <option selected=""></option>
@@ -594,10 +557,10 @@
                                     <button type="button" class="btn btn-secondary">Siguiente pregunta</button>
                                 </div>
                                 <div class="btn-group px-3">
-                                    <button type="button" class="btn btn-secondary">Siguiente tambor</button>
+                                    <button type="button" class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#tamborModal">Siguiente tambor</button>
                                 </div>
                                 <div class="btn-group">
-                                    <button type="button" class="btn btn-secondary">Aceptar</button>
+                                    <button type="button" class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#ventanaExito">Aceptar</button>
                                 </div>
                             </div>
                         </div>
@@ -607,7 +570,6 @@
         </div>
     </div>
     
-
     <?php include 'includes/script.php';?>
 </body>
 

@@ -21,20 +21,22 @@
             <?php include 'includes/navbar.php';?>
             <div class="container">
                 <div class="card my-5 p-5">
-                    <div class="row mb-5">
-                        <div class="col-2 pe-0">
-                            <h1><strong>Detalle</strong></h1>
-                        </div>
-                        <div class="col-8 d-flex px-0">
+                <div class="d-flex justify-content-between">
+                        <div class="d-flex justify-content-start">
+                          <div class="pe-0">
+                              <h1><strong>Detalle</strong></h1>
+                          </div>
+                          <div class="d-flex ms-2 px-0">
                             <a href="#" class="d-flex align-items-center justify-content-center me-2">
                                 <img src="../assets/images/icon-download.svg" width="18px">
                             </a>
                             <a href="#" class="d-flex align-items-center justify-content-center">
                                 <img src="../assets/images/icon-print.svg" width="18px">
                             </a>
+                          </div>
                         </div>
-                        <div class="col-2  justify-content-end">
-                            <a href="" class="btn btn-secondary d-flex justify-content-center px-1">
+                        <div>
+                            <a href="" class="btn btn-secondary d-flex justify-content-center px-3" data-bs-toggle="modal" data-bs-target="#nueva-ordenModal">
                                 <svg class="me-2" width="20" height="21" viewBox="0 0 20 21" fill="none"
                                     xmlns="http://www.w3.org/2000/svg">
                                     <g clip-path="url(#clip0_2530_34177)">
@@ -50,9 +52,10 @@
                                         </clipPath>
                                     </defs>
                                 </svg>
-                                Iniciar Llegada
+                                Iniciar llegada
                             </a>
                         </div>
+                    </div>
                         <div class="row mt-5">
                             <div class="col-4 mb-5">
                                 <h5 class="mb-2 text-secondary">Fecha</h5>
