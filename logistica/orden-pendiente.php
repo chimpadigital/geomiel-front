@@ -67,7 +67,7 @@
                                                     <th class="text-center">O/C</th>
                                                     <th class="text-center">Proveedores</th>
                                                     <th class="text-center">Productos</th>
-                                                    <th></th>
+                                                    <th class="text-center">Acciones</th>
                                                 </tr>
                                             </thead>
                                             <tbody>

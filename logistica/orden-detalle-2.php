@@ -130,46 +130,24 @@
                                 <table id="example" class="table table-striped">
                                     <thead>
                                         <tr>
-                                            <th>Comprobante</th>
-                                            <th>Tambores a retirar</th>
-                                            <th>Cera a retirar</th>
+                                            <th class="text-center">Comprobante</th>
+                                            <th class="text-center">Tambores a retirar</th>
+                                            <th class="text-center">Cera a retirar</th>
                                             <th class="d-flex justify-content-center">Observaciones</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>OC 26554</td>
-                                            <td>55 unidades</td>
-                                            <td>150 kilos</td>
-                                            <td>
-                                                <div class="d-flex justify-content-center">
-                                                    <a href="#"
-                                                        class="d-flex align-items-center justify-content-center me-4"
-                                                        data-bs-toggle="modal" data-bs-target="#tamborModal">
-                                                        <img src="../assets/images/icon-eye.svg" width="18px"
-                                                            data-bs-toggle="tooltip" data-bs-placement="top"
-                                                            data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver tambor">
-                                                    </a>
-                                                </div>
-                                            </td>
+                                            <td class="text-center">OC 26554</td>
+                                            <td class="text-center">55 unidades</td>
+                                            <td class="text-center">150 kilos</td>
+                                            <td class="text-center">-</td>
                                         </tr>
                                         <tr>
-                                            <td>OC 26554</td>
-                                            <td>55 unidades</td>
-                                            <td>-</td>
-                                            <td>
-                                                <div class="d-flex justify-content-center">
-                                                    <a href="#"
-                                                        class="d-flex align-items-center justify-content-center me-4"
-                                                        data-bs-toggle="modal" data-bs-target="#tamborModal">
-                                                        <img src="../assets/images/icon-eye.svg" width="18px"
-                                                            data-bs-toggle="tooltip" data-bs-placement="top"
-                                                            data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver tambor">
-                                                    </a>
-                                                </div>
-                                            </td>
+                                            <td class="text-center">OC 26554</td>
+                                            <td class="text-center">55 unidades</td>
+                                            <td class="text-center">-</td>
+                                            <td class="text-center">-</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -182,46 +160,24 @@
                                         <table id="example" class="table table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th>Comprobante</th>
-                                                    <th>Tambores a retirar</th>
-                                                    <th>Cera a retirar</th>
+                                                    <th class="text-center">Comprobante</th>
+                                                    <th class="text-center">Tambores a retirar</th>
+                                                    <th class="text-center">Cera a retirar</th>
                                                     <th class="d-flex justify-content-center">Observaciones</th>
                                                 </tr>
                                             </thead>
                                             <tbody>
                                                 <tr>
-                                                    <td>OC 26554</td>
-                                                    <td>Tambores nuevos</td>
-                                                    <td>39 unidades</td>
-                                                    <td>
-                                                        <div class="d-flex justify-content-center">
-                                                            <a href="#"
-                                                                class="d-flex align-items-center justify-content-center me-4"
-                                                                data-bs-toggle="modal" data-bs-target="#tamborModal">
-                                                                <img src="../assets/images/icon-eye.svg" width="18px"
-                                                                    data-bs-toggle="tooltip" data-bs-placement="top"
-                                                                    data-bs-custom-class="custom-tooltip"
-                                                                    data-bs-title="Ver tambor">
-                                                            </a>
-                                                        </div>
-                                                    </td>
+                                                    <td class="text-center">OC 26554</td>
+                                                    <td class="text-center">Tambores nuevos</td>
+                                                    <td class="text-center">39 unidades</td>
+                                                    <td class="text-center">-</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>OC 26554</td>
-                                                    <td>Sombrero</td>
-                                                    <td>1 unidad</td>
-                                                    <td>
-                                                        <div class="d-flex justify-content-center">
-                                                            <a href="#"
-                                                                class="d-flex align-items-center justify-content-center me-4"
-                                                                data-bs-toggle="modal" data-bs-target="#tamborModal">
-                                                                <img src="../assets/images/icon-eye.svg" width="18px"
-                                                                    data-bs-toggle="tooltip" data-bs-placement="top"
-                                                                    data-bs-custom-class="custom-tooltip"
-                                                                    data-bs-title="Ver tambor">
-                                                            </a>
-                                                        </div>
-                                                    </td>
+                                                    <td class="text-center">OC 26554</td>
+                                                    <td class="text-center">Sombrero</td>
+                                                    <td class="text-center">1 unidad</td>
+                                                    <td class="text-center">-</td>
                                                 </tr>
                                             </tbody>
                                         </table>
