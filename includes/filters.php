@@ -10,8 +10,8 @@
         <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne"
             data-bs-parent="#accordionFlushExample">
             <div class="accordion-body">
-                <div class="row">
-                    <div class="col-md-6 d-flex flex-column mb-3">
+                <div class="row justify-content-center">
+                    <div class="col-md-3 d-flex flex-column mb-3">
                         <label class="form-label">Proveedor</label>
                         <div class="input-group">
                             <span class="input-group-text" id="basic-addon1">
@@ -25,7 +25,28 @@
                             </select>
                         </div>
                     </div>
-                    <div class="col-md-6 d-flex flex-column mb-3">
+                    <div class="col-md-3 d-flex flex-column mb-3">
+                        <label class="form-label">Fecha desde</label>
+                        <div class="input-group">
+                            <span class="input-group-text" id="basic-addon1">
+                                <img src="../assets/images/icon-input-fecha.svg" alt="">
+                            </span>
+                            <input type="text" class="form-control vanila-datepicker" aria-describedby="basic-addon1">
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-3 d-flex flex-column mb-3">
+                        <label class="form-label">Fecha hasta</label>
+                        <div class="input-group">
+                            <span class="input-group-text" id="basic-addon1">
+                                <img src="../assets/images/icon-input-fecha.svg" alt="">
+                            </span>
+                            <input type="text" class="form-control vanila-datepicker" aria-describedby="basic-addon1">
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                <div class="col-md-3 d-flex flex-column mb-3">
                         <label class="form-label">Producto</label>
                         <div class="input-group">
                             <span class="input-group-text" id="basic-addon1">
@@ -34,36 +55,6 @@
                             <input type="number" class="form-control" aria-describedby="basic-addon1">
                         </div>
                     </div>
-                    <div class="col-md-3 d-flex flex-column mb-3">
-                        <label class="form-label">Fecha</label>
-                        <div class="input-group">
-                            <span class="input-group-text" id="basic-addon1">
-                            <img src="../assets/images/icon-input-fecha.svg" alt="">
-                            </span>
-                            <input type="text" class="form-control vanila-datepicker" aria-describedby="basic-addon1">
-                        </div>
-                    </div>
-            
-                    <div class="col-md-3 d-flex flex-column mb-3">
-                        <label class="form-label">Desde</label>
-                        <div class="input-group">
-                            <span class="input-group-text" id="basic-addon1">
-                            <img src="../assets/images/icon-input-fecha.svg" alt="">
-                            </span>
-                            <input type="text" class="form-control vanila-datepicker" aria-describedby="basic-addon1">
-                        </div>
-                    </div>
-
-                    <div class="col-md-3 d-flex flex-column mb-3">
-                        <label class="form-label">Hasta</label>
-                        <div class="input-group">
-                            <span class="input-group-text" id="basic-addon1">
-                                <img src="../assets/images/icon-input-fecha.svg" alt="">
-                            </span>
-                            <input type="text" class="form-control vanila-datepicker" aria-describedby="basic-addon1">
-                        </div>
-                    </div>
-
                     <div class="col-md-3 d-flex flex-column mb-3">
                         <label class="form-label">O/C</label>
                         <div class="input-group">

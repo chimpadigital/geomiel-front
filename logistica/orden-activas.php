@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Geomiel | Entregadas</title>
+    <title>Geomiel | Activas</title>
     <?php include 'includes/metas.php';?>
 </head>
 
@@ -28,9 +28,9 @@
                         <div class="col-md-12">
                             <div class="d-flex align-items-center">
                                 <div class="box-img">
-                                    <img src="../assets/images/icon-ingreso.svg" width="80%">
+                                    <img src="../assets/images/icon-shopping.svg" width="80%">
                                 </div>
-                                <h1 class="ms-2 mb-0">Entregadas</h1>
+                                <h1 class="ms-2 mb-0">Activas</h1>
                             </div>
                         </div>
                     </div>
@@ -78,7 +78,7 @@
                                                     <td class="text-center">132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                        <a href="orden-detalle-3.php"
+                                                        <a href="orden-detalle-2.php"
                                                                target="_blanck" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="../assets/images/icon-eye.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
@@ -95,7 +95,7 @@
                                                     <td class="text-center">132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                        <a href="orden-detalle-3.php"
+                                                        <a href="orden-detalle-2.php"
                                                                target="_blanck" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="../assets/images/icon-eye.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
@@ -112,7 +112,7 @@
                                                     <td class="text-center">132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                        <a href="orden-detalle-3.php"
+                                                        <a href="orden-detalle-2.php"
                                                                target="_blanck" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="../assets/images/icon-eye.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
@@ -129,7 +129,7 @@
                                                     <td class="text-center">132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                        <a href="orden-detalle-3.php"
+                                                        <a href="orden-detalle-2.php"
                                                                target="_blanck" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="../assets/images/icon-eye.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
@@ -146,7 +146,7 @@
                                                     <td class="text-center">132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                        <a href="orden-detalle-3.php"
+                                                        <a href="orden-detalle-2.php"
                                                                target="_blanck" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="../assets/images/icon-eye.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
@@ -163,7 +163,7 @@
                                                     <td class="text-center">132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                        <a href="orden-detalle-3.php"
+                                                        <a href="orden-detalle-2.php"
                                                                target="_blanck" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="../assets/images/icon-eye.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
@@ -180,7 +180,7 @@
                                                     <td class="text-center">132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                        <a href="orden-detalle-3.php"
+                                                        <a href="orden-detalle-2.php"
                                                                target="_blanck" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="../assets/images/icon-eye.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
@@ -197,7 +197,7 @@
                                                     <td class="text-center">132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                        <a href="orden-detalle-3.php"
+                                                        <a href="orden-detalle-2.php"
                                                                target="_blanck" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="../assets/images/icon-eye.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
@@ -214,7 +214,7 @@
                                                     <td class="text-center">132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="orden-detalle-3.php"
+                                                            <a href="orden-detalle-2.php"
                                                                target="_blanck" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="../assets/images/icon-eye.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
