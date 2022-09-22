@@ -10,7 +10,7 @@
         <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne"
             data-bs-parent="#accordionFlushExample">
             <div class="accordion-body">
-                <div class="row justify-content-center">
+                <div class="row justify-content-start">
                     <div class="col-md-3 d-flex flex-column mb-3">
                         <label class="form-label">Proveedor</label>
                         <div class="input-group">
@@ -45,7 +45,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row justify-content-center">
+                <div class="row justify-content-start">
                 <div class="col-md-3 d-flex flex-column mb-3">
                         <label class="form-label">Producto</label>
                         <div class="input-group">
