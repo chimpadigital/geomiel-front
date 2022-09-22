@@ -47,7 +47,7 @@
                                         </g>
                                     </svg>
                                 </i>
-                                <span class="item-name">Pendiente</span>
+                                <span class="item-name">Pendientes</span>
                             </a>
                         </li>
                         <li class="nav-item">
