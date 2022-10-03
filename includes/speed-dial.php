@@ -51,9 +51,9 @@
                             <label class="form-label">Tipo de pago</label>
                             <select class="form-select mb-3">
                                 <option selected=""></option>
-                                <option value="1">001 - </option>
-                                <option value="2">002 - </option>
-                                <option value="3">003 - </option>
+                                <option value="1">Factura</option>
+                                <option value="2">Dólares</option>
+                                <option value="3">Efectivo</option>
                             </select>
                         </div>
                         <div class="col-md-3 mb-3">
@@ -75,19 +75,34 @@
                                 </button>
                             </div>
                             <div class="col-4 d-flex flex-column mb-3">
-                                <label class="form-label">Tipo de pago</label>
+                                <label class="form-label">Producto</label>
                                 <div class="input-group">
                                     <span class="input-group-text" id="basic-addon1">
                                         <img src="assets/images/icon-arrow-input.svg" alt="">
                                     </span>
                                     <select class="form-select">
                                         <option selected=""></option>
-                                        <option value="1">001 - </option>
-                                        <option value="2">002 - </option>
-                                        <option value="3">003 - </option>
+                                        <option value="1">Tambor</option>
+                                        <option value="2">Cera</option>
                                     </select>
                                 </div>
                             </div>
+                            <!-- Sólo para cera -->
+                            <div class="col-4 d-flex flex-column mb-3">
+                                <label class="form-label">Tipo</label>
+                                <div class="input-group">
+                                    <span class="input-group-text" id="basic-addon1">
+                                        <img src="assets/images/icon-arrow-input.svg" alt="">
+                                    </span>
+                                    <select class="form-select">
+                                        <option selected=""></option>
+                                        <option value="1">Opérculo</option>
+                                        <option value="2">Recupero</option>
+                                        <option value="3">Borra</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <!-- Sólo para cera -->
                             <div class="col-4 d-flex flex-column mb-3">
                                 <label class="form-label">Unidades</label>
                                 <div class="input-group">
