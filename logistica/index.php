@@ -50,7 +50,7 @@
                                     <div class="progress-detail">
                                         <h4 class="counter">85</h4>
                                         <p class="mb-0">O/R Pendientes</p>
-                                        <a href="ordenes-compra-pendiente.php"
+                                        <a href="orden-pendiente.php"
                                             class="d-flex align-items-center btn-link">Ver todos
                                             <svg class="ms-2" width="7" height="12" viewBox="0 0 7 12" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
@@ -70,7 +70,7 @@
                                     <div class="progress-detail">
                                         <h4 class="counter">85</h4>
                                         <p class="mb-0">O/R Entregadas</p>
-                                        <a href="ordenes-compra-entregada.php"
+                                        <a href="orden-ingresos.php"
                                             class="d-flex align-items-center btn-link">Ver todos
                                             <svg class="ms-2" width="7" height="12" viewBox="0 0 7 12" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
