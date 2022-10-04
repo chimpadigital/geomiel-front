@@ -30,7 +30,7 @@
                                 <div class="box-img">
                                     <img src="../assets/images/icon-ingreso.svg" width="80%">
                                 </div>
-                                <h1 class="ms-2 mb-0">Ingresos</h1>
+                                <h1 class="ms-2 mb-0">Ingresos Pendientes</h1>
                             </div>
                         </div>
                     </div>
@@ -80,12 +80,12 @@
                                                     <td>132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="orden-detalle.php"
+                                                            <a href="ingreso-pendiente-detalle.php"
                                                                target="_blanck" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="../assets/images/icon-edit.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                                     data-bs-custom-class="custom-tooltip"
-                                                                    data-bs-title="Editar orden">
+                                                                    data-bs-title="Ver Ingreso">
                                                             </a>
                                                             <a href="#"
                                                                 class="d-flex align-items-center justify-content-center">
@@ -106,12 +106,12 @@
                                                     <td>132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="orden-detalle.php"
+                                                            <a href="ingreso-pendiente-detalle.php"
                                                                target="_blanck" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="../assets/images/icon-edit.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                                     data-bs-custom-class="custom-tooltip"
-                                                                    data-bs-title="Editar orden">
+                                                                    data-bs-title="Ver ingreso">
                                                             </a>
                                                             <a href="#"
                                                                 class="d-flex align-items-center justify-content-center">
@@ -132,12 +132,12 @@
                                                     <td>132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="orden-detalle.php"
+                                                            <a href="ingreso-pendiente-detalle.php"
                                                                target="_blanck" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="../assets/images/icon-edit.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                                     data-bs-custom-class="custom-tooltip"
-                                                                    data-bs-title="Editar orden">
+                                                                    data-bs-title="Ver Ingreso">
                                                             </a>
                                                             <a href="#"
                                                                 class="d-flex align-items-center justify-content-center">
@@ -158,12 +158,12 @@
                                                     <td>132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="orden-detalle.php"
+                                                            <a href="ingreso-pendiente-detalle.php"
                                                                target="_blanck" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="../assets/images/icon-edit.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                                     data-bs-custom-class="custom-tooltip"
-                                                                    data-bs-title="Editar orden">
+                                                                    data-bs-title="Ver Ingreso">
                                                             </a>
                                                             <a href="#"
                                                                 class="d-flex align-items-center justify-content-center">
@@ -184,12 +184,12 @@
                                                     <td>132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="orden-detalle.php"
+                                                            <a href="ingreso-pendiente-detalle.php"
                                                                target="_blanck" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="../assets/images/icon-edit.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                                     data-bs-custom-class="custom-tooltip"
-                                                                    data-bs-title="Editar orden">
+                                                                    data-bs-title="Ver Ingreso">
                                                             </a>
                                                             <a href="#"
                                                                 class="d-flex align-items-center justify-content-center">
@@ -210,12 +210,12 @@
                                                     <td>132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="orden-detalle.php"
+                                                            <a href="ingreso-pendiente-detalle.php"
                                                                target="_blanck" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="../assets/images/icon-edit.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                                     data-bs-custom-class="custom-tooltip"
-                                                                    data-bs-title="Editar orden">
+                                                                    data-bs-title="Ver Ingreso">
                                                             </a>
                                                             <a href="#"
                                                                 class="d-flex align-items-center justify-content-center">
@@ -236,12 +236,12 @@
                                                     <td>132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="orden-detalle.php"
+                                                            <a href="ingreso-pendiente-detalle.php"
                                                                target="_blanck" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="../assets/images/icon-edit.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                                     data-bs-custom-class="custom-tooltip"
-                                                                    data-bs-title="Editar orden">
+                                                                    data-bs-title="Ver Ingreso">
                                                             </a>
                                                             <a href="#"
                                                                 class="d-flex align-items-center justify-content-center">
@@ -262,12 +262,12 @@
                                                     <td>132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="orden-detalle.php"
+                                                            <a href="ingreso-pendiente-detalle.php"
                                                                target="_blanck" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="../assets/images/icon-edit.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                                     data-bs-custom-class="custom-tooltip"
-                                                                    data-bs-title="Editar orden">
+                                                                    data-bs-title="Ver Ingreso">
                                                             </a>
                                                             <a href="#"
                                                                 class="d-flex align-items-center justify-content-center">
@@ -288,12 +288,12 @@
                                                     <td>132</td>
                                                     <th>
                                                         <div class="d-flex justify-content-center">
-                                                            <a href="orden-detalle.php"
+                                                            <a href="ingreso-pendiente-detalle.php"
                                                                target="_blanck" class="d-flex align-items-center justify-content-center me-4">
                                                                 <img src="../assets/images/icon-edit.svg" width="18px"
                                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                                     data-bs-custom-class="custom-tooltip"
-                                                                    data-bs-title="Editar orden">
+                                                                    data-bs-title="Ver Ingreso">
                                                             </a>
                                                             <a href="#"
                                                                 class="d-flex align-items-center justify-content-center">

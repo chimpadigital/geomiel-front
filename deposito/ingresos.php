@@ -30,7 +30,7 @@
                                 <div class="box-img">
                                     <img src="../assets/images/icon-ingreso.svg" width="80%">
                                 </div>
-                                <h1 class="ms-2 mb-0">Ingresos</h1>
+                                <h1 class="ms-2 mb-0">Ingresos Realizados</h1>
                             </div>
                         </div>
                     </div>

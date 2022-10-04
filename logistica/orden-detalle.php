@@ -388,187 +388,187 @@
   </div>
 </div>
 
-    <!-- MODAL -->
-    <div class="modal fade" id="nueva-ordenModal" tabindex="-1" aria-labelledby="nueva-ordenModalLabel" aria-hidden="true">
-        <div class="modal-dialog modal-lg modal-dialog-centered">
-            <div class="modal-content bg-modal-blanco">
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                <div class="modal-header p-5">
-                    <h1 class="modal-title bold" id="nueva-ordenModalLabel"><strong>Retiro N° 02325</strong></h1>
-                </div>
-                <div class="modal-body p-5">
-                    <form>
-                        <div class="row">
-                            <div class="col text-center mb-5">
-                                <div class="detail">
-                                    <div class="d-flex flex-row">
-                                        <div>
-                                            <span class="text-dark text-start">Orden de compra</span>
-                                            <p class="text-start mt-1 mb-0">OC 25351</p>
-                                        </div>
-                                        <img src="../assets/images/icon-ordenes-de-compra.svg" class="ms-2" width="50px" height="50px" alt="">
+<!-- MODAL -->
+<div class="modal fade" id="nueva-ordenModal" tabindex="-1" aria-labelledby="nueva-ordenModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content bg-modal-blanco">
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            <div class="modal-header p-5">
+                <h1 class="modal-title bold" id="nueva-ordenModalLabel"><strong>Retiro N° 02325</strong></h1>
+            </div>
+            <div class="modal-body p-5">
+                <form>
+                    <div class="row">
+                        <div class="col text-center mb-5">
+                            <div class="detail">
+                                <div class="d-flex flex-row">
+                                    <div>
+                                        <span class="text-dark text-start">Orden de compra</span>
+                                        <p class="text-start mt-1 mb-0">OC 25351</p>
                                     </div>
-                                </div>
-                            </div>
-                            <div class="col text-center mb-5 px-5">
-                                <div class="detail">
-                                    <div class="d-flex flex-row">
-                                        <div>
-                                            <span class="text-dark text-start pe-5">Apicutor</span>
-                                            <p class="text-start mt-1 mb-0">Pablo Gomez</p>
-                                        </div>
-                                        <img src="../assets/images/icon-provedor.svg" class="ms-5" width="50px" height="50px" alt="">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col text-center mb-5">
-                                <div class="detail">
-                                    <div class="d-flex flex-row">
-                                        <div>
-                                            <span class="text-dark text-start pe-5">Productos</span>
-                                            <p class="text-start mt-1 mb-0">Tambor de miel</p>
-                                        </div>
-                                        <img src="../assets/images/icon-equivalencias.svg" class="ms-3" width="50px" height="50px" alt="">
-                                    </div>
+                                    <img src="../assets/images/icon-ordenes-de-compra.svg" class="ms-2" width="50px" height="50px" alt="">
                                 </div>
                             </div>
                         </div>
-                        <div class="modal-body p-0">
-                            <div class="d-flex flex-row justify-content-between">
-                                <div>
-                                 <p>Detalle - Tambor 1/5</p>
-                                </div>
-                                    <div class="bd-example">
-                                        <nav aria-label="Standard pagination example">
-                                            <ul class="pagination">
-                                                <li class="page-item">
-                                                    <a class="page-link" href="#" aria-label="Previous">
-                                                        <span aria-hidden="true">«</span>
-                                                    </a>
-                                                </li>
-                                                <li class="page-item">
-                                                    <a class="page-link" href="#" aria-label="Next">
-                                                        <span aria-hidden="true">»</span>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </nav>
+                        <div class="col text-center mb-5 px-5">
+                            <div class="detail">
+                                <div class="d-flex flex-row">
+                                    <div>
+                                        <span class="text-dark text-start pe-5">Apicutor</span>
+                                        <p class="text-start mt-1 mb-0">Pablo Gomez</p>
                                     </div>
-                            </div>
-                            <hr  class="mt-0 mb-5">
-                        <div class="box-form mb-4">
-                            <div class="row">
-                                    <div class="col-4">
-                                        <div class="form-check">
-                                            <p class="form-label">Tambor entregado</p>
-                                            <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                                            <label class="form-check-label" for="exampleCheck1">Si</label>
-                                        </div>
-                                    </div>
-                                <div class="col-4 d-flex flex-column mb-3">
-                                    <label class="form-label">Código del SENASA</label>
-                                    <div class="input-group">
-                                        <span class="input-group-text" id="basic-addon1">
-                                            <img src="../assets/images/icon-arrow-input.svg" alt="">
-                                        </span>
-                                        <input type="number" class="form-control" aria-describedby="basic-addon1">
-                                    </div>
-                                </div>
-                                <div class="col-4 d-flex flex-column mb-3">
-                                    <label class="form-label">Código de GEOmiel</label>
-                                    <div class="input-group">
-                                        <span class="input-group-text" id="basic-addon1">
-                                            <img src="../assets/images/icon-arrow-input.svg" alt="">
-                                        </span>
-                                        <input type="number" class="form-control" aria-describedby="basic-addon1">
-                                    </div>
-                                </div>
-                                <div class="col-4 d-flex flex-column mb-3 mt-4">
-                                    <label class="form-label"></label>
-                                    <div class="input-group">
-                                        <span class="input-group-text" id="basic-addon1">
-                                        <img src="../assets/images/tambor.svg" alt="">       
-                                        </span>
-                                        <select class="form-select">
-                                            <option selected=""></option>
-                                            <option value="1">001 - </option>
-                                            <option value="2">002 - </option>
-                                            <option value="3">003 - </option>
-                                        </select>
-                                    </div>
-                                </div>
-                                <div class="col-4 d-flex flex-column mb-3 mt-4">
-                                    <label class="form-label"></label>
-                                    <div class="input-group">
-                                        <span class="input-group-text" id="basic-addon1">
-                                            <img src="../assets/images/icon-balanza-input.svg" alt="">
-                                        </span>
-                                        <input type="number" class="form-control">
-                                        <span class="input-group-text right">Kg</span>
-                                    </div>
+                                    <img src="../assets/images/icon-provedor.svg" class="ms-5" width="50px" height="50px" alt="">
                                 </div>
                             </div>
-                            <div class="row">
-                                <div class="col-4 d-flex flex-column mb-3">
-                                    <label class="form-label">Peso bruto</label>
-                                    <div class="input-group">
-                                        <span class="input-group-text" id="basic-addon1">
-                                            <img src="../assets/images/icon-balanza-input.svg" alt="">
-                                        </span>
-                                        <input type="number" class="form-control">
-                                        <span class="input-group-text right">Kg</span>
+                        </div>
+                        <div class="col text-center mb-5">
+                            <div class="detail">
+                                <div class="d-flex flex-row">
+                                    <div>
+                                        <span class="text-dark text-start pe-5">Productos</span>
+                                        <p class="text-start mt-1 mb-0">Tambor de miel</p>
+                                    </div>
+                                    <img src="../assets/images/icon-equivalencias.svg" class="ms-3" width="50px" height="50px" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-body p-0">
+                        <div class="d-flex flex-row justify-content-between">
+                            <div>
+                                <p>Detalle - Tambor 1/5</p>
+                            </div>
+                                <div class="bd-example">
+                                    <nav aria-label="Standard pagination example">
+                                        <ul class="pagination">
+                                            <li class="page-item">
+                                                <a class="page-link" href="#" aria-label="Previous">
+                                                    <span aria-hidden="true">«</span>
+                                                </a>
+                                            </li>
+                                            <li class="page-item">
+                                                <a class="page-link" href="#" aria-label="Next">
+                                                    <span aria-hidden="true">»</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                        </div>
+                        <hr  class="mt-0 mb-5">
+                    <div class="box-form mb-4">
+                        <div class="row">
+                                <div class="col-4">
+                                    <div class="form-check">
+                                        <p class="form-label">Tambor entregado</p>
+                                        <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                        <label class="form-check-label" for="exampleCheck1">Si</label>
                                     </div>
                                 </div>
-                                <div class="col-4 d-flex flex-column mb-3">
-                                    <label class="form-label">Tara</label>
-                                    <div class="input-group">
-                                        <span class="input-group-text" id="basic-addon1">
-                                            <img src="../assets/images/icon-balanza-input.svg" alt="">
-                                        </span>
-                                        <input type="number" class="form-control">
-                                        <span class="input-group-text right">Kg</span>
-                                    </div>
+                            <div class="col-4 d-flex flex-column mb-3">
+                                <label class="form-label">Código del SENASA</label>
+                                <div class="input-group">
+                                    <span class="input-group-text" id="basic-addon1">
+                                        <img src="../assets/images/icon-arrow-input.svg" alt="">
+                                    </span>
+                                    <input type="number" class="form-control" aria-describedby="basic-addon1">
                                 </div>
-                                <div class="col-4 d-flex flex-column mb-3">
-                                    <label class="form-label">Neto</label>
-                                    <div class="input-group">
-                                        <span class="input-group-text" id="basic-addon1">
-                                            <img src="../assets/images/icon-balanza-input.svg" alt="">
-                                        </span>
-                                        <input type="number" class="form-control">
-                                        <span class="input-group-text right">Kg</span>
-                                    </div>
+                            </div>
+                            <div class="col-4 d-flex flex-column mb-3">
+                                <label class="form-label">Código de GEOmiel</label>
+                                <div class="input-group">
+                                    <span class="input-group-text" id="basic-addon1">
+                                        <img src="../assets/images/icon-arrow-input.svg" alt="">
+                                    </span>
+                                    <input type="number" class="form-control" aria-describedby="basic-addon1">
                                 </div>
-                                <div class="col-12 mb-3">
-                                    <label for="comprador" class="form-label">Observaciones</label>
-                                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                            </div>
+                            <div class="col-4 d-flex flex-column mb-3 mt-4">
+                                <label class="form-label"></label>
+                                <div class="input-group">
+                                    <span class="input-group-text" id="basic-addon1">
+                                    <img src="../assets/images/tambor.svg" alt="">       
+                                    </span>
+                                    <select class="form-select">
+                                        <option selected=""></option>
+                                        <option value="1">001 - </option>
+                                        <option value="2">002 - </option>
+                                        <option value="3">003 - </option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-4 d-flex flex-column mb-3 mt-4">
+                                <label class="form-label"></label>
+                                <div class="input-group">
+                                    <span class="input-group-text" id="basic-addon1">
+                                        <img src="../assets/images/icon-balanza-input.svg" alt="">
+                                    </span>
+                                    <input type="number" class="form-control">
+                                    <span class="input-group-text right">Kg</span>
                                 </div>
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-md-8 mb-3 mb-md-0">
-                                <label class="form-label" for="customFile">Subir archivo</label>
-                                <input type="file" class="form-control file" id="customFile">
-                            </div>
-                        </div>
-                        <div class="row mt-5">
-                            <div class="d-flex justify-content-end">
-                                <div class="btn-group">
-                                    <button type="button" class="btn btn-secondary">Siguiente pregunta</button>
-                                </div>
-                                <div class="btn-group px-3">
-                                    <button type="button" class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#tamborModal">Siguiente tambor</button>
-                                </div>
-                                <div class="btn-group">
-                                    <button type="button" class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#ventanaExito">Aceptar</button>
+                            <div class="col-4 d-flex flex-column mb-3">
+                                <label class="form-label">Peso bruto</label>
+                                <div class="input-group">
+                                    <span class="input-group-text" id="basic-addon1">
+                                        <img src="../assets/images/icon-balanza-input.svg" alt="">
+                                    </span>
+                                    <input type="number" class="form-control">
+                                    <span class="input-group-text right">Kg</span>
                                 </div>
                             </div>
+                            <div class="col-4 d-flex flex-column mb-3">
+                                <label class="form-label">Tara</label>
+                                <div class="input-group">
+                                    <span class="input-group-text" id="basic-addon1">
+                                        <img src="../assets/images/icon-balanza-input.svg" alt="">
+                                    </span>
+                                    <input type="number" class="form-control">
+                                    <span class="input-group-text right">Kg</span>
+                                </div>
+                            </div>
+                            <div class="col-4 d-flex flex-column mb-3">
+                                <label class="form-label">Neto</label>
+                                <div class="input-group">
+                                    <span class="input-group-text" id="basic-addon1">
+                                        <img src="../assets/images/icon-balanza-input.svg" alt="">
+                                    </span>
+                                    <input type="number" class="form-control">
+                                    <span class="input-group-text right">Kg</span>
+                                </div>
+                            </div>
+                            <div class="col-12 mb-3">
+                                <label for="comprador" class="form-label">Observaciones</label>
+                                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                            </div>
                         </div>
-                    </form>
-                </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-8 mb-3 mb-md-0">
+                            <label class="form-label" for="customFile">Subir archivo</label>
+                            <input type="file" class="form-control file" id="customFile">
+                        </div>
+                    </div>
+                    <div class="row mt-5">
+                        <div class="d-flex justify-content-end">
+                            <div class="btn-group">
+                                <button type="button" class="btn btn-secondary">Siguiente pregunta</button>
+                            </div>
+                            <div class="btn-group px-3">
+                                <button type="button" class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#tamborModal">Siguiente tambor</button>
+                            </div>
+                            <div class="btn-group">
+                                <button type="button" class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#ventanaExito">Aceptar</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
             </div>
         </div>
     </div>
+</div>
     
     <?php include 'includes/script.php';?>
 </body>
