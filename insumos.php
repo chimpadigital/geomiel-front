@@ -46,7 +46,7 @@
                 <div class="col-md-12 bg-grey rounded">
                     <div class="row row-cols-1">
                         <div class="col-12 mt-5 mb-3">
-                            <?php include 'includes/filters.php';?>
+                            <!-- <?php include 'includes/filters.php';?> -->
                         </div>
                         <div class="col-12">
                             <div class="card">
