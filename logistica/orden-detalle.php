@@ -401,8 +401,8 @@
                     <div class="row">
                         <div class="col text-center mb-5">
                             <div class="detail">
-                                <div class="d-flex flex-row">
-                                    <div>
+                                <div class="d-flex flex-row align-items-center justify-content-center">
+                                    <div class="mt-4">
                                         <span class="text-dark text-start">Orden de compra</span>
                                         <p class="text-start mt-1 mb-0">OC 25351</p>
                                     </div>
@@ -412,8 +412,8 @@
                         </div>
                         <div class="col text-center mb-5 px-5">
                             <div class="detail">
-                                <div class="d-flex flex-row">
-                                    <div>
+                                <div class="d-flex flex-row align-items-center justify-content-center">
+                                    <div class="mt-4">
                                         <span class="text-dark text-start pe-5">Apicutor</span>
                                         <p class="text-start mt-1 mb-0">Pablo Gomez</p>
                                     </div>
@@ -423,8 +423,8 @@
                         </div>
                         <div class="col text-center mb-5">
                             <div class="detail">
-                                <div class="d-flex flex-row">
-                                    <div>
+                                <div class="d-flex flex-row align-items-center justify-content-center">
+                                    <div class="mt-4">
                                         <span class="text-dark text-start pe-5">Productos</span>
                                         <p class="text-start mt-1 mb-0">Tambor de miel</p>
                                     </div>

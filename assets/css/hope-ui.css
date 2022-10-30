@@ -545,6 +545,30 @@ progress {
 .org1 path{
   fill: #F16A1B;
 }
+/* 
+.oculto{
+  visibility: hidden; 
+  opacity: 0;
+}
+
+.visible{
+   visibility: visible;
+   opacity: 1;
+   transition: opacity 2s linear;
+} */
+
+.checkboxx {
+  position: relative;
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.5s ease-in;
+}
+
+.abrir_cerrar{
+  max-height: 100rem;
+  transition: max-height 0.5s ease-in;
+  
+}
 
 .detail1{
   background-color: #F16A1B;
@@ -572,7 +596,6 @@ progress {
   box-shadow: -5px 5px 15px -0.1px rgb(246, 243, 243);
   border-radius: 5px;
   height: 6rem;
-
 }
 
 .succes-draw{

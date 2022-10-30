@@ -89,12 +89,7 @@
                         <span class="input-group-text" id="basic-addon1">
                         <img src="../assets/images/calendario.svg" alt="">       
                         </span>
-                        <select class="form-select">
-                            <option selected=""></option>
-                            <option value="1">001 - </option>
-                            <option value="2">002 - </option>
-                            <option value="3">003 - </option>
-                        </select>
+                        <input type="date" class="form-control">
                     </div>
                 </div>
                 <div class="col d-flex flex-column mb-3">
