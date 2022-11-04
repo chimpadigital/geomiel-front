@@ -89,7 +89,7 @@
                                                         <img src="../assets/images/icon-edit.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Editar orden">
+                                                            data-bs-title="Ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -111,7 +111,7 @@
                                                         <img src="../assets/images/icon-edit.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Editar orden">
+                                                            data-bs-title="Ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -133,7 +133,7 @@
                                                         <img src="../assets/images/icon-edit.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Editar orden">
+                                                            data-bs-title="Ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -155,7 +155,7 @@
                                                         <img src="../assets/images/icon-edit.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Editar orden">
+                                                            data-bs-title="Ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -177,7 +177,7 @@
                                                         <img src="../assets/images/icon-edit.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Editar orden">
+                                                            data-bs-title="Ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -199,7 +199,7 @@
                                                         <img src="../assets/images/icon-edit.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Editar orden">
+                                                            data-bs-title="Ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -221,7 +221,7 @@
                                                         <img src="../assets/images/icon-edit.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Editar orden">
+                                                            data-bs-title="Ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -243,7 +243,7 @@
                                                         <img src="../assets/images/icon-edit.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Editar orden">
+                                                            data-bs-title="Ver lote">
                                                     </a>
                                                 </div>
                                             </th>

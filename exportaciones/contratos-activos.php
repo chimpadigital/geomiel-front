@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Geomiel | Contratos activos</title>
+    <title>Geomiel | tambores</title>
     <?php include 'includes/metas.php';?>
 </head>
 
@@ -27,21 +27,9 @@
                         <div class="col-md-12 d-flex flex-row justify-content-between">
                             <div class="d-flex align-items-center">
                                 <div class="box-img">
-                                    <img src="../assets/images/checklistt.svg" alt="icono-contratos-activos">
+                                    <img src="../assets/images/checklistt.svg" alt="icono-contactos">
                                 </div>
                                 <h1 class="ms-2 mb-0">Contratos activos</h1>
-                            </div>
-                            <div>
-                                <a href="nuevo-contrato.php" class="btn btn-primary mt-3">
-                                    <svg width="14" height="14" viewBox="0 0 14 14" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M6.96684 1V13" stroke="white" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round" />
-                                        <path d="M13 6.9579H1" stroke="white" stroke-width="1.5" stroke-linecap="round"
-                                            stroke-linejoin="round" />
-                                    </svg>
-                                    Nuevo contrato
-                                </a>
                             </div>
                         </div>
                     </div>
@@ -91,22 +79,22 @@
                                             <td class="text-center">3</td>
                                             <th>
                                                 <div class="d-flex justify-content-around">
-                                                    <a href="contratos-activos.php" class="btn btn-secondary">
+                                                    <a href="tambores.php" class="btn btn-secondary">
                                                         Lotear
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="editar-contrato.php"
                                                         class="d-flex align-items-center justify-content-center">
                                                         <img src="../assets/images/icon-edit.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Editar orden">
+                                                            data-bs-title="Editar contrato">
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="lotes.php"
                                                         class="d-flex align-items-center justify-content-center">
                                                         <img src="../assets/images/icon-eye.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver orden">
+                                                            data-bs-title="Ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -119,22 +107,22 @@
                                             <td class="text-center">3</td>
                                             <th>
                                                 <div class="d-flex justify-content-around">
-                                                    <a href="contratos-activos.php" class="btn btn-secondary">
+                                                    <a href="tambores.php" class="btn btn-secondary">
                                                         Lotear
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="editar-contrato.php"
                                                         class="d-flex align-items-center justify-content-center">
                                                         <img src="../assets/images/icon-edit.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Editar orden">
+                                                            data-bs-title="Editar contrato">
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="lotes.php"
                                                         class="d-flex align-items-center justify-content-center">
                                                         <img src="../assets/images/icon-eye.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver orden">
+                                                            data-bs-title="Ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -147,22 +135,22 @@
                                             <td class="text-center">4</td>
                                             <th>
                                                 <div class="d-flex justify-content-around">
-                                                    <a href="contratos-activos.php" class="btn btn-secondary">
+                                                    <a href="tambores.php" class="btn btn-secondary">
                                                         Lotear
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="editar-contrato.php"
                                                         class="d-flex align-items-center justify-content-center">
                                                         <img src="../assets/images/icon-edit.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Editar orden">
+                                                            data-bs-title="Editar contrato">
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="lotes.php"
                                                         class="d-flex align-items-center justify-content-center">
                                                         <img src="../assets/images/icon-eye.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver orden">
+                                                            data-bs-title="Ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -171,36 +159,9 @@
                                             <td class="text-center">FP-AR-2022-5</td>
                                             <td class="text-center">Canadá</td>
                                             <td class="text-center">John Doe</td>
-                                            <td class="text-center">14</td>
-                                            <td class="text-center">5</td>
-                                            <th>
-                                                <div class="d-flex justify-content-around">
-                                                    <a href="contratos-activos.php" class="btn btn-secondary">
-                                                        Lotear
-                                                    </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
-                                                        class="d-flex align-items-center justify-content-center">
-                                                        <img src="../assets/images/icon-edit.svg" width="18px"
-                                                            data-bs-toggle="tooltip" data-bs-placement="top"
-                                                            data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Editar orden">
-                                                    </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
-                                                        class="d-flex align-items-center justify-content-center">
-                                                        <img src="../assets/images/icon-eye.svg" width="18px"
-                                                            data-bs-toggle="tooltip" data-bs-placement="top"
-                                                            data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver orden">
-                                                    </a>
-                                                </div>
-                                            </th>
-                                        </tr>
-                                        <tr>
-                                            <td class="text-center">TFE24/GEO210528Y25</td>
-                                            <td class="text-center">Inglaterra</td>
                                             <td class="text-center">
-                                                John Doe
-                                                <svg width="15" height="15" viewBox="0 0 15 15" fill="none"
+                                                14
+                                            <svg width="15" height="15" viewBox="0 0 15 15" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg" class="ms-2"
                                                     data-bs-toggle="tooltip" data-bs-placement="top"
                                                     data-bs-custom-class="custom-tooltip" data-bs-title="Revisar">
@@ -218,25 +179,52 @@
 
                                             </td>
                                             <td class="text-center">5</td>
-                                            <td class="text-center">1</td>
                                             <th>
                                                 <div class="d-flex justify-content-around">
-                                                    <a href="contratos-activos.php" class="btn btn-secondary">
+                                                    <a href="tambores.php" class="btn btn-secondary">
                                                         Lotear
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="editar-contrato.php"
                                                         class="d-flex align-items-center justify-content-center">
                                                         <img src="../assets/images/icon-edit.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Editar orden">
+                                                            data-bs-title="Editar contrato">
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="lotes.php"
                                                         class="d-flex align-items-center justify-content-center">
                                                         <img src="../assets/images/icon-eye.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver orden">
+                                                            data-bs-title="Ver lote">
+                                                    </a>
+                                                </div>
+                                            </th>
+                                        </tr>
+                                        <tr>
+                                            <td class="text-center">TFE24/GEO210528Y25</td>
+                                            <td class="text-center">Inglaterra</td>
+                                            <td class="text-center">John Doe</td>
+                                            <td class="text-center">5</td>
+                                            <td class="text-center">1</td>
+                                            <th>
+                                                <div class="d-flex justify-content-around">
+                                                    <a href="tambores.php" class="btn btn-secondary">
+                                                        Lotear
+                                                    </a>
+                                                    <a href="editar-contrato.php"
+                                                        class="d-flex align-items-center justify-content-center">
+                                                        <img src="../assets/images/icon-edit.svg" width="18px"
+                                                            data-bs-toggle="tooltip" data-bs-placement="top"
+                                                            data-bs-custom-class="custom-tooltip"
+                                                            data-bs-title="Editar contrato">
+                                                    </a>
+                                                    <a href="lotes.php"
+                                                        class="d-flex align-items-center justify-content-center">
+                                                        <img src="../assets/images/icon-eye.svg" width="18px"
+                                                            data-bs-toggle="tooltip" data-bs-placement="top"
+                                                            data-bs-custom-class="custom-tooltip"
+                                                            data-bs-title="Ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -249,22 +237,22 @@
                                             <td class="text-center">2</td>
                                             <th>
                                                 <div class="d-flex justify-content-around">
-                                                    <a href="contratos-activos.php" class="btn btn-secondary">
+                                                    <a href="tambores.php" class="btn btn-secondary">
                                                         Lotear
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="editar-contrato.php"
                                                         class="d-flex align-items-center justify-content-center">
                                                         <img src="../assets/images/icon-edit.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Editar orden">
+                                                            data-bs-title="Editar contrato">
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="lotes.php"
                                                         class="d-flex align-items-center justify-content-center">
                                                         <img src="../assets/images/icon-eye.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver orden">
+                                                            data-bs-title="Ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -277,22 +265,22 @@
                                             <td class="text-center">3</td>
                                             <th>
                                                 <div class="d-flex justify-content-around">
-                                                    <a href="contratos-activos.php" class="btn btn-secondary">
+                                                    <a href="tambores.php" class="btn btn-secondary">
                                                         Lotear
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="editar-contrato.php"
                                                         class="d-flex align-items-center justify-content-center">
                                                         <img src="../assets/images/icon-edit.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Editar orden">
+                                                            data-bs-title="Editar contrato">
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="lotes.php"
                                                         class="d-flex align-items-center justify-content-center">
                                                         <img src="../assets/images/icon-eye.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver orden">
+                                                            data-bs-title="Ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -305,22 +293,22 @@
                                             <td class="text-center">2</td>
                                             <th>
                                                 <div class="d-flex justify-content-around">
-                                                    <a href="contratos-activos.php" class="btn btn-secondary">
+                                                    <a href="tambores.php" class="btn btn-secondary">
                                                         Lotear
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="editar-contrato.php"
                                                         class="d-flex align-items-center justify-content-center">
                                                         <img src="../assets/images/icon-edit.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Editar orden">
+                                                            data-bs-title="Editar contrato">
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="lotes.php"
                                                         class="d-flex align-items-center justify-content-center">
                                                         <img src="../assets/images/icon-eye.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver orden">
+                                                            data-bs-title="Ver lote">
                                                     </a>
                                                 </div>
                                             </th>

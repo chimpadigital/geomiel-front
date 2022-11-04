@@ -84,12 +84,12 @@
                                                     <a href="contratos-activos.php">
                                                         <img src="../assets/images/icon-download.svg" alt="icono-descarga">
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="detalle.php"
                                                         class="d-flex align-items-center justify-content-center">
                                                         <img src="../assets/images/icon-eye.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver orden">
+                                                            data-bs-title="Ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -106,12 +106,12 @@
                                                     <a href="contratos-activos.php">
                                                         <img src="../assets/images/icon-download.svg" alt="icono-descarga">
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="detalle.php"
                                                         class="d-flex align-items-center justify-content-center">
                                                         <img src="../assets/images/icon-eye.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver orden">
+                                                            data-bs-title="Ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -128,12 +128,12 @@
                                                     <a href="contratos-activos.php">
                                                         <img src="../assets/images/icon-download.svg" alt="icono-descarga">
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="detalle.php"
                                                         class="d-flex align-items-center justify-content-center">
                                                         <img src="../assets/images/icon-eye.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver orden">
+                                                            data-bs-title="Ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -150,12 +150,12 @@
                                                     <a href="contratos-activos.php">
                                                         <img src="../assets/images/icon-download.svg" alt="icono-descarga">
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="detalle.php"
                                                         class="d-flex align-items-center justify-content-center">
                                                         <img src="../assets/images/icon-eye.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver orden">
+                                                            data-bs-title="Ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -172,12 +172,12 @@
                                                     <a href="contratos-activos.php">
                                                         <img src="../assets/images/icon-download.svg" alt="icono-descarga">
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="detalle.php"
                                                         class="d-flex align-items-center justify-content-center">
                                                         <img src="../assets/images/icon-eye.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver orden">
+                                                            data-bs-title="Ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -194,12 +194,12 @@
                                                     <a href="contratos-activos.php">
                                                         <img src="../assets/images/icon-download.svg" alt="icono-descarga">
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="detalle.php"
                                                         class="d-flex align-items-center justify-content-center">
                                                         <img src="../assets/images/icon-eye.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver orden">
+                                                            data-bs-title="Ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -216,12 +216,12 @@
                                                     <a href="contratos-activos.php">
                                                         <img src="../assets/images/icon-download.svg" alt="icono-descarga">
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="detalle.php"
                                                         class="d-flex align-items-center justify-content-center">
                                                         <img src="../assets/images/icon-eye.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver orden">
+                                                            data-bs-title="Ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -238,12 +238,12 @@
                                                     <a href="contratos-activos.php">
                                                         <img src="../assets/images/icon-download.svg" alt="icono-descarga">
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="detalle.php"
                                                         class="d-flex align-items-center justify-content-center">
                                                         <img src="../assets/images/icon-eye.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver orden">
+                                                            data-bs-title="Ver lote">
                                                     </a>
                                                 </div>
                                             </th>

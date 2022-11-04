@@ -4,11 +4,11 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Geomiel | Nuevo lote</title>
+    <title>Geomiel | Lote detalle</title>
     <?php include 'includes/metas.php';?>
 </head>
 
-<body class="  ">
+<body class=" " data-bs-spy="scroll" data-bs-target="#elements-section" data-bs-offset="0" tabindex="0">
     <!-- loader Start -->
     <div id="loading">
         <div class="loader simple-loader">
@@ -16,78 +16,39 @@
         </div>
     </div>
     <!-- loader END -->
-    <?php include 'includes/sidebar-menu.php';?>
-
     <main class="main-content">
         <div class="position-relative iq-banner">
             <?php include 'includes/navbar.php';?>
-            <div class="iq-navbar-header" style="height: 215px;">
-                <div class="container-fluid iq-container">
-                    <div class="row">
-                        <div class="col-md-12 d-flex flex-row justify-content-between">
-                            <div class="d-flex align-items-center">
-                                <div class="box-img">
-                                    <img src="../assets/images/barrel.svg" alt="icono-contratos-activos">
-                                </div>
-                                <div>
-                                    <h1 class="ms-2 mb-0 mt-2">Tambores</h1>
-                                    <p class="ms-2 mb-0">Contrato N°: PC11999</p>
-                                </div>
+            <div class="container">
+                <div class="card my-5 p-5">
+                        <div class="d-flex justify-content-start">
+                            <div class="pe-0">
+                                <h1><strong>Lote N° 1234213</strong></h1>
                             </div>
                         </div>
-                    </div>
-                    <div class="row my-4 d-flex justify-content-between">
-                        <div class="col">
-                            <a href="javascript:history.back()" class="btn btn-primary">
-                                <svg width="20" height="21" viewBox="0 0 20 21" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path fill-rule="evenodd" clip-rule="evenodd"
-                                        d="M3.83828 7.64785C3.88472 7.6013 3.93989 7.56436 4.00063 7.53915C4.06137 7.51395 4.12648 7.50098 4.19224 7.50098C4.258 7.50098 4.32311 7.51395 4.38385 7.53915C4.44459 7.56436 4.49976 7.6013 4.5462 7.64785L10.1915 13.2942L15.8369 7.64785C15.8834 7.60137 15.9385 7.5645 15.9993 7.53934C16.06 7.51419 16.1251 7.50124 16.1908 7.50124C16.2566 7.50124 16.3217 7.51419 16.3824 7.53934C16.4431 7.5645 16.4983 7.60137 16.5448 7.64785C16.5913 7.69434 16.6281 7.74952 16.6533 7.81025C16.6785 7.87098 16.6914 7.93608 16.6914 8.00181C16.6914 8.06755 16.6785 8.13264 16.6533 8.19337C16.6281 8.2541 16.5913 8.30929 16.5448 8.35577L10.5455 14.3551C10.4991 14.4016 10.4439 14.4386 10.3831 14.4638C10.3224 14.489 10.2573 14.5019 10.1915 14.5019C10.1258 14.5019 10.0607 14.489 9.99993 14.4638C9.93919 14.4386 9.88402 14.4016 9.83758 14.3551L3.83828 8.35577C3.79173 8.30933 3.75479 8.25416 3.72958 8.19342C3.70438 8.13268 3.69141 8.06757 3.69141 8.00181C3.69141 7.93605 3.70438 7.87094 3.72958 7.8102C3.75479 7.74946 3.79173 7.69429 3.83828 7.64785Z"
-                                        fill="white" />
-                                </svg>
-                                Volver al listado
-                            </a>
+                        <div class="row d-flex justify-content-between mt-5">
+                            <div class="col-2 card">
+                                <p>N° de Contrato</p>
+                                <p class="fw-bold">023547</p>
+                            </div>
+                            <div class="col-3 card">
+                                <p>Destino</p>
+                                <p class="fw-bold">Estados Unidos</p>
+                            </div>
+                            <div class="col-3 card">
+                                <p>Cliente</p>
+                                <p class="fw-bold">John Doe</p>
+                            </div>
+                            <div class="col-2 card">
+                                <p>Color</p>
+                                <p class="fw-bold">32 mm</p>
+                            </div>
                         </div>
-                        <div class="col d-flex justify-content-end">
-                            <a href="detalle-lote.php" class="btn btn-primary" target="_blanck">
-                                <svg width="14" height="14" viewBox="0 0 14 14" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M6.96684 1V13" stroke="white" stroke-width="1.5" stroke-linecap="round"
-                                        stroke-linejoin="round" />
-                                    <path d="M13 6.9579H1" stroke="white" stroke-width="1.5" stroke-linecap="round"
-                                        stroke-linejoin="round" />
-                                </svg>
-                                Crear lote
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="iq-header-img">
-                    <img src="../assets/images/dashboard/top-header.png" alt="header"
-                        class="theme-color-default-img img-fluid w-100 h-100 animated-scale">
-                </div>
-            </div>
-        </div>
-        <div class="conatiner-fluid content-inner mt-n5 py-0">
-            <div class="row">
-                <div class="col-12 mt-5">
-                    <?php include 'includes/filters-homogeneizacion.php';?>
-                </div>
-            </div>
-            <div class="row mt-4">
-                <div class="col-md-12 col-lg-12">
-                    <div class="card">
-                        <div class="card-body">
-                        <div class="table-responsive">
-                                <div class="tool-table d-flex">
-                                    <a href="#" class="d-flex align-items-center justify-content-center me-2">
-                                        <img src="../assets/images/icon-download.svg" width="18px">
-                                    </a>
-                                    <a href="#" class="d-flex align-items-center justify-content-center">
-                                        <img src="../assets/images/icon-print.svg" width="18px">
-                                    </a>
-                                </div>
-                                <table id="example" class="table table-striped" data-toggle="data-table">
+                        <div class=" mt-3">
+                               <span class="me-3 fw-bold">Listado de tambores</span>
+                            </div>
+                            <hr>
+                                    <table id="example" class="table table-striped" data-toggle="data-table">
                                         <thead>
                                             <tr>
                                                 <th class="text-center"></th>
@@ -107,7 +68,6 @@
                                                 <th class="text-center">Proveedor</th>
                                                 <th class="text-center">OC</th>
                                                 <th class="text-center">N° SENASA</th>
-                                                <th class="text-center">Homogeneizar</th>
                                                 <th class="text-center">Observaciones</th>
                                             </tr>
                                         </thead>
@@ -133,10 +93,6 @@
                                                 <td class="text-center">Carmisiano Fernando Damián</td>
                                                 <td class="text-center">11474</td>
                                                 <td class="text-center">18077</td>
-                                                <td class="text-center">
-                                                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                                                    <label class="form-check-label" for="exampleCheck1"></label>
-                                                </td>
                                                 <td class="text-center"></td>
                                             </tr>
                                             <tr>
@@ -160,10 +116,6 @@
                                                 <td class="text-center">Carmisiano Fernando Damián</td>
                                                 <td class="text-center">11474</td>
                                                 <td class="text-center">18079</td>
-                                                <td class="text-center">
-                                                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                                                    <label class="form-check-label" for="exampleCheck1"></label>
-                                                </td>
                                                 <td class="text-center"></td>
                                             </tr>
                                             <tr>
@@ -187,10 +139,6 @@
                                                 <td class="text-center">Carmisiano Fernando Damián</td>
                                                 <td class="text-center">11474</td>
                                                 <td class="text-center">18080</td>
-                                                <td class="text-center">
-                                                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                                                    <label class="form-check-label" for="exampleCheck1"></label>
-                                                </td>
                                                 <td class="text-center"></td>
                                             </tr>
                                             <tr>
@@ -214,10 +162,6 @@
                                                 <td class="text-center">Carmisiano Fernando Damián</td>
                                                 <td class="text-center">11474</td>
                                                 <td class="text-center">18083</td>
-                                                <td class="text-center">
-                                                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                                                    <label class="form-check-label" for="exampleCheck1"></label>
-                                                </td>
                                                 <td class="text-center"></td>
                                             </tr>
                                             <tr>
@@ -241,10 +185,6 @@
                                                 <td class="text-center">Carmisiano Fernando Damián</td>
                                                 <td class="text-center">11474</td>
                                                 <td class="text-center">18082</td>
-                                                <td class="text-center">
-                                                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                                                    <label class="form-check-label" for="exampleCheck1"></label>
-                                                </td>
                                                 <td class="text-center"></td>
                                             </tr>
                                             <tr>
@@ -284,10 +224,6 @@
                                                 <td class="text-center">Carmisiano Fernando Damián</td>
                                                 <td class="text-center">11474</td>
                                                 <td class="text-center">18077</td>
-                                                <td class="text-center">
-                                                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                                                    <label class="form-check-label" for="exampleCheck1"></label>
-                                                </td>
                                                 <td class="text-center"></td>
                                             </tr>
                                             <tr>
@@ -311,10 +247,6 @@
                                                 <td class="text-center">Carmisiano Fernando Damián</td>
                                                 <td class="text-center">11474</td>
                                                 <td class="text-center">18079</td>
-                                                <td class="text-center">
-                                                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                                                    <label class="form-check-label" for="exampleCheck1"></label>
-                                                </td>
                                                 <td class="text-center"></td>
                                             </tr>
                                             <tr>
@@ -338,10 +270,6 @@
                                                 <td class="text-center">Carmisiano Fernando Damián</td>
                                                 <td class="text-center">11474</td>
                                                 <td class="text-center">18080</td>
-                                                <td class="text-center">
-                                                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                                                    <label class="form-check-label" for="exampleCheck1"></label>
-                                                </td>
                                                 <td class="text-center"></td>
                                             </tr>
                                             <tr>
@@ -365,10 +293,6 @@
                                                 <td class="text-center">Carmisiano Fernando Damián</td>
                                                 <td class="text-center">11474</td>
                                                 <td class="text-center">18083</td>
-                                                <td class="text-center">
-                                                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                                                    <label class="form-check-label" for="exampleCheck1"></label>
-                                                </td>
                                                 <td class="text-center"></td>
                                             </tr>
                                             <tr>
@@ -408,10 +332,6 @@
                                                 <td class="text-center">Carmisiano Fernando Damián</td>
                                                 <td class="text-center">11474</td>
                                                 <td class="text-center">18082</td>
-                                                <td class="text-center">
-                                                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                                                    <label class="form-check-label" for="exampleCheck1"></label>
-                                                </td>
                                                 <td class="text-center"></td>
                                             </tr>
                                             <tr>
@@ -435,24 +355,220 @@
                                                 <td class="text-center">Carmisiano Fernando Damián</td>
                                                 <td class="text-center">11474</td>
                                                 <td class="text-center">18080</td>
-                                                <td class="text-center">
-                                                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                                                    <label class="form-check-label" for="exampleCheck1"></label>
-                                                </td>
                                                 <td class="text-center"></td>
                                             </tr>
                                         </tbody>
                                     </table>
+                            <div class=" mt-3">
+                               <span class="me-3 fw-bold">Análisis extra</span><input type="checkbox" class="form-check-input" name="check" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                               <label class="form-check-label"></label>
                             </div>
-                        </div>
+                            <hr>
+                            <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                <div class="row">
+                                    <div class="col-12 card card-body">
+                                        <p class="mb-3 fw-bold">Azúcares</p>
+                                        <div class="row">
+                                            <div class="col">
+                                                <span class="me-3">Fructosa</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">Glucosa (G)</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">Sacarosa</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">F/G</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">F+G</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">G+H</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-12 card card-body">
+                                        <p class="mb-3 fw-bold">Adulteraciones</p>
+                                        <div class="row">
+                                            <div class="col">
+                                                <span class="me-3">Miel adulterada</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">Δ (P-M)</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">RIM</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">RIP</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">%C4</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">Conductividad</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                        </div>
+                                        <div class="row mt-3">
+                                            <div class="col">
+                                                <span class="me-3">Diastasa (Phadebas)</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">Color por HANNA</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col-3">
+                                                <span class="me-3">Humedad por Refractòmetro (H)</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col"></div>
+                                            <div class="col"></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-12 card card-body">
+                                        <p class="mb-3 fw-bold">Antibióticos Kids AI</p>
+                                        <div class="row">
+                                            <div class="col">
+                                                <span class="me-3">SZ</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">SDM</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">SQ</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">SMT</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">SMX</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">ST</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">SS</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">SP</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                        </div>
+                                        <div class="row mt-3">
+                                            <div class="col">
+                                                <span class="me-3">SM</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">SMM</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">SMP</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">SCP</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">DAPS</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">SD</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">TMP</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col"></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-12 card card-body">
+                                        <p class="mb-3 fw-bold">Antibióticos Kids AII</p>
+                                        <div class="row">
+                                            <div class="col">
+                                                <span class="me-3">QNL</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">CEFT</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">TAF</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">STR</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">TYL</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                            <div class="col">
+                                                <span class="me-3">TCN</span><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                <label class="form-check-label" for="exampleCheck1"></label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-12 card card-body">
+                                        <p class="mb-3 fw-bold">Notas</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 text-end">
+                                    <a href="lotes-preparados.php"  class="btn btn-secondary">Crear Lote</a>
+                            </div>
+                          </div>
+                </div>
+    </main>
+
+    <!--MODAL VENTANA-->
+
+    <div class="modal fade" id="ventanaExito" tabindex="-1" aria-labelledby="ventanaExitoLabel" aria-hidden="true">
+        <div class="modal-dialog succes-draw ">
+            <div class="modal-content py-5">
+                <div>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="d-flex flex-column align-items-center justify-content-center">
+                    <div class="modal-body mt-4 py-5">
+                        Realizado exitosamente
                     </div>
+                    <img class="mb-5" src="../assets/images/check-circle-1.svg" alt="image exito" width="50px"
+                        height="50px">
                 </div>
             </div>
         </div>
-        </div>
+    </div>
 
-        <?php include 'includes/speed-dial.php';?>
-    </main>
+
     <?php include 'includes/script.php';?>
 </body>
 

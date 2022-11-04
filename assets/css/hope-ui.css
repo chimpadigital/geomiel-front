@@ -545,17 +545,24 @@ progress {
 .org1 path{
   fill: #F16A1B;
 }
-/* 
-.oculto{
-  visibility: hidden; 
-  opacity: 0;
-}
 
-.visible{
-   visibility: visible;
-   opacity: 1;
-   transition: opacity 2s linear;
-} */
+/* .divsEmpleo {
+  padding:10px;
+  position:relative;
+  margin-left:200px;
+  visibility:visible;
+  vertical-align:baseline;
+  z-index:0;
+  }
+
+.algo{
+    width:800px;
+    padding:10px;
+    display:none;
+    position:relative;
+    vertical-align:baseline;
+    z-index:1;
+}  */
 
 .checkboxx {
   position: relative;

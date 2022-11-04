@@ -154,7 +154,7 @@
                                                     <a href="tambores.php" class="btn btn-secondary">
                                                         Lotear
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="lotes.php"
                                                         class="d-flex align-items-center justify-content-center me-4">
                                                         <img src="../assets/images/icon-edit.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
@@ -175,7 +175,7 @@
                                                     <a href="tambores.php" class="btn btn-secondary">
                                                         Lotear
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="lotes.php"
                                                         class="d-flex align-items-center justify-content-center me-4">
                                                         <img src="../assets/images/icon-edit.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
@@ -196,7 +196,7 @@
                                                     <a href="tambores.php" class="btn btn-secondary">
                                                         Lotear
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="lotes.php"
                                                         class="d-flex align-items-center justify-content-center me-4">
                                                         <img src="../assets/images/icon-edit.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
@@ -217,7 +217,7 @@
                                                     <a href="tambores.php" class="btn btn-secondary">
                                                         Lotear
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="lotes.php"
                                                         class="d-flex align-items-center justify-content-center me-4">
                                                         <img src="../assets/images/icon-edit.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
@@ -238,7 +238,7 @@
                                                     <a href="tambores.php" class="btn btn-secondary">
                                                         Lotear
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="lotes.php"
                                                         class="d-flex align-items-center justify-content-center me-4">
                                                         <img src="../assets/images/icon-edit.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
@@ -259,7 +259,7 @@
                                                     <a href="tambores.php" class="btn btn-secondary">
                                                         Lotear
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="lotes.php"
                                                         class="d-flex align-items-center justify-content-center me-4">
                                                         <img src="../assets/images/icon-edit.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
@@ -280,7 +280,7 @@
                                                     <a href="tambores.php" class="btn btn-secondary">
                                                         Lotear
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="lotes.php"
                                                         class="d-flex align-items-center justify-content-center me-4">
                                                         <img src="../assets/images/icon-edit.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
@@ -301,7 +301,7 @@
                                                     <a href="tambores.php" class="btn btn-secondary">
                                                         Lotear
                                                     </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
+                                                    <a href="lotes.php"
                                                         class="d-flex align-items-center justify-content-center me-4">
                                                         <img src="../assets/images/icon-edit.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"

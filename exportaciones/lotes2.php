@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Geomiel | Lotes totales consolidados</title>
+    <title>Geomiel | Lotes</title>
     <?php include 'includes/metas.php';?>
 </head>
 
@@ -16,6 +16,7 @@
         </div>
     </div>
     <!-- loader END -->
+
     <?php include 'includes/sidebar-menu.php';?>
 
     <main class="main-content">
@@ -26,10 +27,18 @@
                     <div class="row">
                         <div class="col-md-12 d-flex flex-row justify-content-between">
                             <div class="d-flex align-items-center">
-                                <div class="box-img">
-                                    <img src="../assets/images/tilde.svg" alt="icono-contratos-activos">
-                                </div>
-                                <h1 class="ms-2 mb-0">Lotes totales consolidados</h1>
+                                <h1 class="ms-2 mb-0 mt-2">Lotes del contrato N° 15641</h1>
+                            </div>
+                            <div>
+                                <a href="javascript:history.back()" class="btn btn-primary mt-3">
+                                <svg width="20" height="21" viewBox="0 0 20 21" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd" clip-rule="evenodd"
+                                        d="M3.83828 7.64785C3.88472 7.6013 3.93989 7.56436 4.00063 7.53915C4.06137 7.51395 4.12648 7.50098 4.19224 7.50098C4.258 7.50098 4.32311 7.51395 4.38385 7.53915C4.44459 7.56436 4.49976 7.6013 4.5462 7.64785L10.1915 13.2942L15.8369 7.64785C15.8834 7.60137 15.9385 7.5645 15.9993 7.53934C16.06 7.51419 16.1251 7.50124 16.1908 7.50124C16.2566 7.50124 16.3217 7.51419 16.3824 7.53934C16.4431 7.5645 16.4983 7.60137 16.5448 7.64785C16.5913 7.69434 16.6281 7.74952 16.6533 7.81025C16.6785 7.87098 16.6914 7.93608 16.6914 8.00181C16.6914 8.06755 16.6785 8.13264 16.6533 8.19337C16.6281 8.2541 16.5913 8.30929 16.5448 8.35577L10.5455 14.3551C10.4991 14.4016 10.4439 14.4386 10.3831 14.4638C10.3224 14.489 10.2573 14.5019 10.1915 14.5019C10.1258 14.5019 10.0607 14.489 9.99993 14.4638C9.93919 14.4386 9.88402 14.4016 9.83758 14.3551L3.83828 8.35577C3.79173 8.30933 3.75479 8.25416 3.72958 8.19342C3.70438 8.13268 3.69141 8.06757 3.69141 8.00181C3.69141 7.93605 3.70438 7.87094 3.72958 7.8102C3.75479 7.74946 3.79173 7.69429 3.83828 7.64785Z"
+                                        fill="white" />
+                                </svg>
+                                    Volver al listado
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -41,9 +50,34 @@
             </div>
         </div>
         <div class="conatiner-fluid content-inner mt-n5 py-0">
-            <div class="row">
-                <div class="col-12">
-                    <?php include 'includes/filters-lote.php';?>
+            <div class="row mt-3">
+                <div class="col-md-12">
+                    <div class="row row-cols-1">
+                        <div class="col-12 mt-5 d-flex flex-row justify-content-start">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row mx-1 d-flex justify-content-between">
+                <div class="col-2 card d-flex flex-column">
+                    <h5 class="mt-2 mb-2">Cliente</h5>
+                    <p class="mb-2">John Doe</p>
+                </div>
+                <div class="col-2 card d-flex flex-column">
+                    <h5 class="mt-2 mb-2">Destino</h5>
+                    <p class="mb-2">Estados Unidos</p>
+                </div>
+                <div class="col-2 card d-flex flex-column">
+                    <h5 class="mt-2 mb-2">Color</h5>
+                    <p class="mb-2">32mm</p>
+                </div>
+                <div class="col-2 card d-flex flex-column">
+                    <h5 class="mt-2 mb-2">Cont. Totales</h5>
+                    <p class="mb-2">5</p>
+                </div>
+                <div class="col-2 card d-flex flex-column">
+                    <h5 class="mt-2 mb-2">Cont. totales</h5>
+                    <p class="mb-2">5</p>
                 </div>
             </div>
             <div class="row mt-4">
@@ -89,7 +123,7 @@
                                                         <img src="../assets/images/icon-eye.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver lote">
+                                                            data-bs-title="ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -111,7 +145,7 @@
                                                         <img src="../assets/images/icon-eye.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver lote">
+                                                            data-bs-title="ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -133,7 +167,7 @@
                                                         <img src="../assets/images/icon-eye.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver lote">
+                                                            data-bs-title="ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -155,7 +189,7 @@
                                                         <img src="../assets/images/icon-eye.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver lote">
+                                                            data-bs-title="ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -177,7 +211,7 @@
                                                         <img src="../assets/images/icon-eye.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver lote">
+                                                            data-bs-title="ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -199,7 +233,7 @@
                                                         <img src="../assets/images/icon-eye.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver lote">
+                                                            data-bs-title="ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -221,7 +255,7 @@
                                                         <img src="../assets/images/icon-eye.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver lote">
+                                                            data-bs-title="ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -243,7 +277,7 @@
                                                         <img src="../assets/images/icon-eye.svg" width="18px"
                                                             data-bs-toggle="tooltip" data-bs-placement="top"
                                                             data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver lote">
+                                                            data-bs-title="ver lote">
                                                     </a>
                                                 </div>
                                             </th>
@@ -265,9 +299,6 @@
                 </div>
             </div>
         </div>
-        </div>
-
-        <?php include 'includes/speed-dial.php';?>
     </main>
     <?php include 'includes/script.php';?>
 </body>

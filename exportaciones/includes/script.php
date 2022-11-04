@@ -5,3 +5,4 @@
 <script src="../assets/vendor/aos/dist/aos.js"></script>
 <script src="../assets/js/hope-ui.js" defer></script>
 <script src="../assets/vendor/DataTables/datatables.js"></script>
+<script src="../assets/js/data.js"></script>

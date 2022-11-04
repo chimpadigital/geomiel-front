@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Geomiel | Nuevo contrato</title>
+    <title>Geomiel | Contrato</title>
     <?php include 'includes/metas.php';?>
 </head>
 
@@ -25,12 +25,12 @@
             <div class="iq-navbar-header" style="height: 215px;">
                 <div class="container-fluid iq-container">
                     <div class="row">
-                        <div class="col-md-12">
+                        <div class="col-md-12 d-flex flex-row justify-content-between">
                             <div class="d-flex align-items-center">
                                 <div class="box-img">
-                                    <img src="../assets/images/checklistt.svg" width="80%">
+                                    <img src="../assets/images/checklistt.svg" alt="icono-contratos-activos">
                                 </div>
-                                <h1 class="ms-2 mb-0">Nuevo contrato</h1>
+                                <h1 class="ms-2 mb-0 mt-2">Contrato</h1>
                             </div>
                         </div>
                     </div>
@@ -42,8 +42,8 @@
             </div>
         </div>
         <div class="conatiner-fluid content-inner mt-n5 py-0">
-            <div class="row">
-                <div class="col-md-12 bg-grey rounded">
+            <div class="row mt-3">
+                <div class="col-md-12">
                     <div class="row row-cols-1">
                         <div class="col-12 mt-5 d-flex flex-row justify-content-start">
                         </div>
@@ -72,6 +72,8 @@
                                     </clipPath>
                                 </defs>
                             </svg>
+
+
                         </span>
                         <input type="text" class="form-control" aria-describedby="basic-addon1">
                     </div>
@@ -224,23 +226,7 @@
             </div>
             <div class="row">
                 <div class="col-12 text-end mb-5">
-                    <a href="contratos-activos.php" class="btn btn-secondary">Crear Contrato</a>
-                </div>
-            </div>
-        </div>
-        <div class="modal fade" id="ventanaExito" tabindex="-1" aria-labelledby="ventanaExitoLabel" aria-hidden="true">
-            <div class="modal-dialog succes-draw ">
-                <div class="modal-content py-5">
-                    <div>
-                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                    </div>
-                    <div class="d-flex flex-column align-items-center justify-content-center">
-                        <div class="modal-body mt-4 py-5">
-                            Guardado exitosamente
-                        </div>
-                        <img class="mb-5" src="../assets/images/check-circle-1.svg" alt="image exito" width="50px"
-                            height="50px">
-                    </div>
+                    <a href="contratos-activos.php" class="btn btn-secondary">Guardar Contrato</a>
                 </div>
             </div>
         </div>

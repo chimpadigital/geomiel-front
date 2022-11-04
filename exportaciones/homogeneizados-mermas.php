@@ -46,7 +46,7 @@
                      </a>
                     </div>
                      <div class="col d-flex justify-content-end">
-                     <a href="contratos-activos.php" class="btn btn-primary">
+                     <a href="detalle-lote2.php" class="btn btn-primary">
                                     <svg width="14" height="14" viewBox="0 0 14 14" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">
                                         <path d="M6.96684 1V13" stroke="white" stroke-width="1.5" stroke-linecap="round"

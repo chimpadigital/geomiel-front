@@ -46,7 +46,7 @@
                      </a>
                     </div>
                      <div class="col d-flex justify-content-end">
-                     <a href="contratos-activos.php" class="btn btn-primary">
+                     <a href="detalle-lote2.php" class="btn btn-primary" target="_blanck">
                                     <svg width="14" height="14" viewBox="0 0 14 14" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">
                                         <path d="M6.96684 1V13" stroke="white" stroke-width="1.5" stroke-linecap="round"
@@ -85,196 +85,316 @@
                                     </a>
                                 </div>
                                 <table id="example" class="table table-striped" data-toggle="data-table">
-                                    <thead>
-                                        <tr>
-                                            <th class="text-center">N° Lote</th>
-                                            <th class="text-center">N° Contrato</th>
-                                            <th class="text-center">N° Contenedor</th>
-                                            <th class="text-center">Tambores</th>
-                                            <th class="text-center">Kg Neto</th>
-                                            <th class="text-center">Consolidación</th>
-                                            <th class="text-center">Acciones</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td class="text-center">GEO H 2021 - 324</td>
-                                            <td class="text-center">TFE24/GEO210528Y25</td>
-                                            <td class="text-center">BEAU 206072-6</td>
-                                            <td class="text-center">55</td>
-                                            <td class="text-center">20.000</td>
-                                            <td class="text-center">21/02/2022</td>
-                                            <th>
-                                                <div class="d-flex justify-content-evenly">
-                                                    <a href="contratos-activos.php">
-                                                        <img src="../assets/images/icon-download.svg" alt="icono-descarga">
-                                                    </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
-                                                        class="d-flex align-items-center justify-content-center">
-                                                        <img src="../assets/images/icon-eye.svg" width="18px"
-                                                            data-bs-toggle="tooltip" data-bs-placement="top"
-                                                            data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver orden">
-                                                    </a>
-                                                </div>
-                                            </th>
-                                        </tr>
-                                        <tr>
-                                            <td class="text-center">GEO H 2021 - 328</td>
-                                            <td class="text-center">TFE24/GEO210528Y25</td>
-                                            <td class="text-center">HLXU 126995-3</td>
-                                            <td class="text-center">60</td>
-                                            <td class="text-center">18.954</td>
-                                            <td class="text-center">21/02/2022</td>
-                                            <th>
-                                                <div class="d-flex justify-content-evenly">
-                                                    <a href="contratos-activos.php">
-                                                        <img src="../assets/images/icon-download.svg" alt="icono-descarga">
-                                                    </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
-                                                        class="d-flex align-items-center justify-content-center">
-                                                        <img src="../assets/images/icon-eye.svg" width="18px"
-                                                            data-bs-toggle="tooltip" data-bs-placement="top"
-                                                            data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver orden">
-                                                    </a>
-                                                </div>
-                                            </th>
-                                        </tr>
-                                        <tr>
-                                            <td class="text-center">GEO G 2021 - 304</td>
-                                            <td class="text-center">PC11999</td>
-                                            <td class="text-center">MEDU 293828-9</td>
-                                            <td class="text-center">64</td>
-                                            <td class="text-center">5.263</td>
-                                            <td class="text-center">21/02/2022</td>
-                                            <th>
-                                                <div class="d-flex justify-content-evenly">
-                                                    <a href="contratos-activos.php">
-                                                        <img src="../assets/images/icon-download.svg" alt="icono-descarga">
-                                                    </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
-                                                        class="d-flex align-items-center justify-content-center">
-                                                        <img src="../assets/images/icon-eye.svg" width="18px"
-                                                            data-bs-toggle="tooltip" data-bs-placement="top"
-                                                            data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver orden">
-                                                    </a>
-                                                </div>
-                                            </th>
-                                        </tr>
-                                        <tr>
-                                            <td class="text-center">GEO G 2022 - 306</td>
-                                            <td class="text-center">PC11999</td>
-                                            <td class="text-center">MEDU 293828-9</td>
-                                            <td class="text-center">48</td>
-                                            <td class="text-center">13.874</td>
-                                            <td class="text-center">21/02/2022</td>
-                                            <th>
-                                                <div class="d-flex justify-content-evenly">
-                                                    <a href="contratos-activos.php">
-                                                        <img src="../assets/images/icon-download.svg" alt="icono-descarga">
-                                                    </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
-                                                        class="d-flex align-items-center justify-content-center">
-                                                        <img src="../assets/images/icon-eye.svg" width="18px"
-                                                            data-bs-toggle="tooltip" data-bs-placement="top"
-                                                            data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver orden">
-                                                    </a>
-                                                </div>
-                                            </th>
-                                        </tr>
-                                        <tr>
-                                            <td class="text-center">GEO G 2021 - 305</td>
-                                            <td class="text-center">PC11997</td>
-                                            <td class="text-center">HLXU 126401-5 </td>
-                                            <td class="text-center">50</td>
-                                            <td class="text-center">18.457</td>
-                                            <td class="text-center">21/02/2022</td>
-                                            <th>
-                                                <div class="d-flex justify-content-evenly">
-                                                    <a href="contratos-activos.php">
-                                                        <img src="../assets/images/icon-download.svg" alt="icono-descarga">
-                                                    </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
-                                                        class="d-flex align-items-center justify-content-center">
-                                                        <img src="../assets/images/icon-eye.svg" width="18px"
-                                                            data-bs-toggle="tooltip" data-bs-placement="top"
-                                                            data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver orden">
-                                                    </a>
-                                                </div>
-                                            </th>
-                                        </tr>
-                                        <tr>
-                                            <td class="text-center">GEO G 2022 - 307</td>
-                                            <td class="text-center">FP-AR-2022-5</td>
-                                            <td class="text-center">UACU 369898-9</td>
-                                            <td class="text-center">55</td>
-                                            <td class="text-center">8.754</td>
-                                            <td class="text-center">21/02/2022</td>
-                                            <th>
-                                                <div class="d-flex justify-content-evenly">
-                                                    <a href="contratos-activos.php">
-                                                        <img src="../assets/images/icon-download.svg" alt="icono-descarga">
-                                                    </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
-                                                        class="d-flex align-items-center justify-content-center">
-                                                        <img src="../assets/images/icon-eye.svg" width="18px"
-                                                            data-bs-toggle="tooltip" data-bs-placement="top"
-                                                            data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver orden">
-                                                    </a>
-                                                </div>
-                                            </th>
-                                        </tr>
-                                        <tr>
-                                            <td class="text-center">GEO G 2022 - 308</td>
-                                            <td class="text-center">HLBU 110737-0</td>
-                                            <td class="text-center">FP-AR-2022-5</td>
-                                            <td class="text-center">61</td>
-                                            <td class="text-center">3.541</td>
-                                            <td class="text-center">21/02/2022</td>
-                                            <th>
-                                                <div class="d-flex justify-content-evenly">
-                                                    <a href="contratos-activos.php">
-                                                        <img src="../assets/images/icon-download.svg" alt="icono-descarga">
-                                                    </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
-                                                        class="d-flex align-items-center justify-content-center">
-                                                        <img src="../assets/images/icon-eye.svg" width="18px"
-                                                            data-bs-toggle="tooltip" data-bs-placement="top"
-                                                            data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver orden">
-                                                    </a>
-                                                </div>
-                                            </th>
-                                        </tr>
-                                        <tr>
-                                            <td class="text-center">GEO G 2022 - 308</td>
-                                            <td class="text-center">HLBU 110737-0</td>
-                                            <td class="text-center">PC12033</td>
-                                            <td class="text-center">50</td>
-                                            <td class="text-center">16.845</td>
-                                            <td class="text-center">21/02/2022</td>
-                                            <th>
-                                                <div class="d-flex justify-content-evenly">
-                                                    <a href="contratos-activos.php">
-                                                        <img src="../assets/images/icon-download.svg" alt="icono-descarga">
-                                                    </a>
-                                                    <a href="orden-detalle.php" target="_blanck"
-                                                        class="d-flex align-items-center justify-content-center">
-                                                        <img src="../assets/images/icon-eye.svg" width="18px"
-                                                            data-bs-toggle="tooltip" data-bs-placement="top"
-                                                            data-bs-custom-class="custom-tooltip"
-                                                            data-bs-title="Ver orden">
-                                                    </a>
-                                                </div>
-                                            </th>
-                                        </tr>
-                                    </tbody>
-                                </table>
+                                        <thead>
+                                            <tr>
+                                                <th class="text-center"></th>
+                                                <th class="text-center">Tambor</th>
+                                                <th class="text-center">Estado</th>
+                                                <th class="text-center">HMF</th>
+                                                <th class="text-center">Color</th>
+                                                <th class="text-center">Humedad</th>
+                                                <th class="text-center">Kg Bruto</th>
+                                                <th class="text-center">Kg Tara</th>
+                                                <th class="text-center">Kg Neto</th>
+                                                <th class="text-center">Solidificacion</th>
+                                                <th class="text-center">AM I</th>
+                                                <th class="text-center">AM II</th>
+                                                <th class="text-center">Glifosato</th>
+                                                <th class="text-center">FG</th>
+                                                <th class="text-center">Proveedor</th>
+                                                <th class="text-center">OC</th>
+                                                <th class="text-center">N° SENASA</th>
+                                                <th class="text-center">Observaciones</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td class="text-center">
+                                                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                    <label class="form-check-label" for="exampleCheck1"></label>
+                                                </td>
+                                                <td class="text-center">324,923</td>
+                                                <td class="text-center">Aprobado</td>
+                                                <td class="text-center">2,0</td>
+                                                <td class="text-center">31 mm</td>
+                                                <td class="text-center">15,5%</td>
+                                                <td class="text-center">293</td>
+                                                <td class="text-center">16,5</td>
+                                                <td class="text-center">276,5</td>
+                                                <td class="text-center">Liquida</td>
+                                                <td class="text-center">???</td>
+                                                <td class="text-center">???</td>
+                                                <td class="text-center"></td>
+                                                <td class="text-center"></td>
+                                                <td class="text-center">Carmisiano Fernando Damián</td>
+                                                <td class="text-center">11474</td>
+                                                <td class="text-center">18077</td>
+                                                <td class="text-center"></td>
+                                            </tr>
+                                            <tr>
+                                                <td class="text-center">
+                                                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                    <label class="form-check-label" for="exampleCheck1"></label>
+                                                </td>
+                                                <td class="text-center">324,923</td>
+                                                <td class="text-center">Aprobado</td>
+                                                <td class="text-center">2,0</td>
+                                                <td class="text-center">31 mm</td>
+                                                <td class="text-center">15,5%</td>
+                                                <td class="text-center">293</td>
+                                                <td class="text-center">16,5</td>
+                                                <td class="text-center">276,5</td>
+                                                <td class="text-center">Liquida</td>
+                                                <td class="text-center">???</td>
+                                                <td class="text-center">???</td>
+                                                <td class="text-center"></td>
+                                                <td class="text-center"></td>
+                                                <td class="text-center">Carmisiano Fernando Damián</td>
+                                                <td class="text-center">11474</td>
+                                                <td class="text-center">18079</td>
+                                                <td class="text-center"></td>
+                                            </tr>
+                                            <tr>
+                                                <td class="text-center">
+                                                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                    <label class="form-check-label" for="exampleCheck1"></label>
+                                                </td>
+                                                <td class="text-center">324,924</td>
+                                                <td class="text-center">Aprobado</td>
+                                                <td class="text-center">2,0</td>
+                                                <td class="text-center">31 mm</td>
+                                                <td class="text-center">15,5%</td>
+                                                <td class="text-center">296</td>
+                                                <td class="text-center">16</td>
+                                                <td class="text-center">282,5</td>
+                                                <td class="text-center">Liquida</td>
+                                                <td class="text-center">???</td>
+                                                <td class="text-center">???</td>
+                                                <td class="text-center"></td>
+                                                <td class="text-center"></td>
+                                                <td class="text-center">Carmisiano Fernando Damián</td>
+                                                <td class="text-center">11474</td>
+                                                <td class="text-center">18080</td>
+                                                <td class="text-center"></td>
+                                            </tr>
+                                            <tr>
+                                                <td class="text-center">
+                                                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                    <label class="form-check-label" for="exampleCheck1"></label>
+                                                </td>
+                                                <td class="text-center">324,925</td>
+                                                <td class="text-center">Aprobado</td>
+                                                <td class="text-center">2,0</td>
+                                                <td class="text-center">31 mm</td>
+                                                <td class="text-center">15,5%</td>
+                                                <td class="text-center">279,5</td>
+                                                <td class="text-center">18</td>
+                                                <td class="text-center">259,5</td>
+                                                <td class="text-center">Liquida</td>
+                                                <td class="text-center">???</td>
+                                                <td class="text-center">???</td>
+                                                <td class="text-center"></td>
+                                                <td class="text-center"></td>
+                                                <td class="text-center">Carmisiano Fernando Damián</td>
+                                                <td class="text-center">11474</td>
+                                                <td class="text-center">18083</td>
+                                                <td class="text-center"></td>
+                                            </tr>
+                                            <tr>
+                                                <td class="text-center">
+                                                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                    <label class="form-check-label" for="exampleCheck1"></label>
+                                                </td>
+                                                <td class="text-center">324,926</td>
+                                                <td class="text-center">Aprobado</td>
+                                                <td class="text-center">2,0</td>
+                                                <td class="text-center">31 mm</td>
+                                                <td class="text-center">15,5%</td>
+                                                <td class="text-center">300,5</td>
+                                                <td class="text-center">16,5</td>
+                                                <td class="text-center">284</td>
+                                                <td class="text-center">Liquida</td>
+                                                <td class="text-center">???</td>
+                                                <td class="text-center">???</td>
+                                                <td class="text-center"></td>
+                                                <td class="text-center"></td>
+                                                <td class="text-center">Carmisiano Fernando Damián</td>
+                                                <td class="text-center">11474</td>
+                                                <td class="text-center">18082</td>
+                                                <td class="text-center"></td>
+                                            </tr>
+                                            <tr>
+                                                <td class="text-center">
+                                                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                    <label class="form-check-label" for="exampleCheck1"></label>
+                                                </td>
+                                                <td class="text-center">324,927</td>
+                                                <td class="text-center">Aprobado</td>
+                                                <td class="text-center">2,0</td>
+                                                <td class="text-center">31 mm</td>
+                                                <td class="text-center">15,5%</td>
+                                                <td class="text-center">302,5</td>
+                                                <td class="text-center">16,5</td>
+                                                <td class="text-center">295</td>
+                                                <td class="text-center">Liquida</td>
+                                                <td class="text-center">
+                                                    <svg width="15" height="15" viewBox="0 0 15 15" fill="none"
+                                                        xmlns="http://www.w3.org/2000/svg" class="ms-2"
+                                                        data-bs-toggle="tooltip" data-bs-placement="top"
+                                                        data-bs-custom-class="custom-tooltip" data-bs-title="Revisar">
+                                                        <g clip-path="url(#clip0_3032_70275)">
+                                                            <path
+                                                                d="M8.48441 0.407813C7.94066 -0.135937 7.05941 -0.135937 6.51566 0.407813L0.408789 6.51563C-0.134961 7.05938 -0.134961 7.93969 0.408789 8.4825L6.51754 14.5913C7.06129 15.135 7.9416 15.135 8.48441 14.5913L14.5932 8.4825C15.1369 7.93875 15.1369 7.05844 14.5932 6.51563L8.48441 0.407813ZM7.50004 3.75C8.0016 3.75 8.39441 4.18313 8.34379 4.68281L8.01566 7.97063C8.00464 8.09979 7.94554 8.22011 7.85006 8.30779C7.75458 8.39546 7.62967 8.44411 7.50004 8.44411C7.37041 8.44411 7.2455 8.39546 7.15002 8.30779C7.05454 8.22011 6.99544 8.09979 6.98441 7.97063L6.65629 4.68281C6.64451 4.56491 6.65755 4.44584 6.69458 4.33328C6.73161 4.22072 6.79181 4.11717 6.8713 4.02929C6.95079 3.94142 7.0478 3.87116 7.15609 3.82306C7.26438 3.77495 7.38155 3.75007 7.50004 3.75ZM7.50191 9.375C7.75055 9.375 7.98901 9.47377 8.16483 9.64959C8.34064 9.8254 8.43941 10.0639 8.43941 10.3125C8.43941 10.5611 8.34064 10.7996 8.16483 10.9754C7.98901 11.1512 7.75055 11.25 7.50191 11.25C7.25327 11.25 7.01482 11.1512 6.839 10.9754C6.66319 10.7996 6.56441 10.5611 6.56441 10.3125C6.56441 10.0639 6.66319 9.8254 6.839 9.64959C7.01482 9.47377 7.25327 9.375 7.50191 9.375Z"
+                                                                fill="#F16A1B" />
+                                                        </g>
+                                                        <defs>
+                                                            <clipPath id="clip0_3032_70275">
+                                                                <rect width="15" height="15" fill="white" />
+                                                            </clipPath>
+                                                        </defs>
+                                                    </svg>
+                                                </td>
+                                                <td class="text-center">???</td>
+                                                <td class="text-center"></td>
+                                                <td class="text-center"></td>
+                                                <td class="text-center">Carmisiano Fernando Damián</td>
+                                                <td class="text-center">11474</td>
+                                                <td class="text-center">18077</td>
+                                                <td class="text-center"></td>
+                                            </tr>
+                                            <tr>
+                                                <td class="text-center">
+                                                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                    <label class="form-check-label" for="exampleCheck1"></label>
+                                                </td>
+                                                <td class="text-center">324,928</td>
+                                                <td class="text-center">Aprobado</td>
+                                                <td class="text-center">2,0</td>
+                                                <td class="text-center">31 mm</td>
+                                                <td class="text-center">15,5%</td>
+                                                <td class="text-center">309,5</td>
+                                                <td class="text-center">16,5</td>
+                                                <td class="text-center">298</td>
+                                                <td class="text-center">Liquida</td>
+                                                <td class="text-center">???</td>
+                                                <td class="text-center">???</td>
+                                                <td class="text-center"></td>
+                                                <td class="text-center"></td>
+                                                <td class="text-center">Carmisiano Fernando Damián</td>
+                                                <td class="text-center">11474</td>
+                                                <td class="text-center">18079</td>
+                                                <td class="text-center"></td>
+                                            </tr>
+                                            <tr>
+                                                <td class="text-center">
+                                                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                    <label class="form-check-label" for="exampleCheck1"></label>
+                                                </td>
+                                                <td class="text-center">324,929</td>
+                                                <td class="text-center">Aprobado</td>
+                                                <td class="text-center">2,0</td>
+                                                <td class="text-center">31 mm</td>
+                                                <td class="text-center">15,5%</td>
+                                                <td class="text-center">310,5</td>
+                                                <td class="text-center">16</td>
+                                                <td class="text-center">294,5</td>
+                                                <td class="text-center">Liquida</td>
+                                                <td class="text-center">???</td>
+                                                <td class="text-center">???</td>
+                                                <td class="text-center"></td>
+                                                <td class="text-center"></td>
+                                                <td class="text-center">Carmisiano Fernando Damián</td>
+                                                <td class="text-center">11474</td>
+                                                <td class="text-center">18080</td>
+                                                <td class="text-center"></td>
+                                            </tr>
+                                            <tr>
+                                                <td class="text-center">
+                                                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                    <label class="form-check-label" for="exampleCheck1"></label>
+                                                </td>
+                                                <td class="text-center">324,930</td>
+                                                <td class="text-center">Aprobado</td>
+                                                <td class="text-center">2,0</td>
+                                                <td class="text-center">31 mm</td>
+                                                <td class="text-center">15,5%</td>
+                                                <td class="text-center">304,5</td>
+                                                <td class="text-center">16,5</td>
+                                                <td class="text-center">287</td>
+                                                <td class="text-center">Liquida</td>
+                                                <td class="text-center">???</td>
+                                                <td class="text-center">???</td>
+                                                <td class="text-center"></td>
+                                                <td class="text-center"></td>
+                                                <td class="text-center">Carmisiano Fernando Damián</td>
+                                                <td class="text-center">11474</td>
+                                                <td class="text-center">18083</td>
+                                                <td class="text-center"></td>
+                                            </tr>
+                                            <tr>
+                                                <td class="text-center">
+                                                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                    <label class="form-check-label" for="exampleCheck1"></label>
+                                                </td>
+                                                <td class="text-center">324,931</td>
+                                                <td class="text-center">Aprobado</td>
+                                                <td class="text-center">2,0</td>
+                                                <td class="text-center">31 mm</td>
+                                                <td class="text-center">15,5%</td>
+                                                <td class="text-center">291</td>
+                                                <td class="text-center">18</td>
+                                                <td class="text-center">279,5</td>
+                                                <td class="text-center">Liquida</td>
+                                                <td class="text-center">???</td>
+                                                <td class="text-center">
+                                                    <svg width="15" height="15" viewBox="0 0 15 15" fill="none"
+                                                        xmlns="http://www.w3.org/2000/svg" class="ms-2"
+                                                        data-bs-toggle="tooltip" data-bs-placement="top"
+                                                        data-bs-custom-class="custom-tooltip" data-bs-title="Revisar">
+                                                        <g clip-path="url(#clip0_3032_70275)">
+                                                            <path
+                                                                d="M8.48441 0.407813C7.94066 -0.135937 7.05941 -0.135937 6.51566 0.407813L0.408789 6.51563C-0.134961 7.05938 -0.134961 7.93969 0.408789 8.4825L6.51754 14.5913C7.06129 15.135 7.9416 15.135 8.48441 14.5913L14.5932 8.4825C15.1369 7.93875 15.1369 7.05844 14.5932 6.51563L8.48441 0.407813ZM7.50004 3.75C8.0016 3.75 8.39441 4.18313 8.34379 4.68281L8.01566 7.97063C8.00464 8.09979 7.94554 8.22011 7.85006 8.30779C7.75458 8.39546 7.62967 8.44411 7.50004 8.44411C7.37041 8.44411 7.2455 8.39546 7.15002 8.30779C7.05454 8.22011 6.99544 8.09979 6.98441 7.97063L6.65629 4.68281C6.64451 4.56491 6.65755 4.44584 6.69458 4.33328C6.73161 4.22072 6.79181 4.11717 6.8713 4.02929C6.95079 3.94142 7.0478 3.87116 7.15609 3.82306C7.26438 3.77495 7.38155 3.75007 7.50004 3.75ZM7.50191 9.375C7.75055 9.375 7.98901 9.47377 8.16483 9.64959C8.34064 9.8254 8.43941 10.0639 8.43941 10.3125C8.43941 10.5611 8.34064 10.7996 8.16483 10.9754C7.98901 11.1512 7.75055 11.25 7.50191 11.25C7.25327 11.25 7.01482 11.1512 6.839 10.9754C6.66319 10.7996 6.56441 10.5611 6.56441 10.3125C6.56441 10.0639 6.66319 9.8254 6.839 9.64959C7.01482 9.47377 7.25327 9.375 7.50191 9.375Z"
+                                                                fill="#F16A1B" />
+                                                        </g>
+                                                        <defs>
+                                                            <clipPath id="clip0_3032_70275">
+                                                                <rect width="15" height="15" fill="white" />
+                                                            </clipPath>
+                                                        </defs>
+                                                    </svg>
+                                                </td>
+                                                <td class="text-center"></td>
+                                                <td class="text-center"></td>
+                                                <td class="text-center">Carmisiano Fernando Damián</td>
+                                                <td class="text-center">11474</td>
+                                                <td class="text-center">18082</td>
+                                                <td class="text-center"></td>
+                                            </tr>
+                                            <tr>
+                                                <td class="text-center">
+                                                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                                    <label class="form-check-label" for="exampleCheck1"></label> 
+                                                </td>
+                                                <td class="text-center">324,932</td>
+                                                <td class="text-center">Aprobado</td>
+                                                <td class="text-center">2,0</td>
+                                                <td class="text-center">31 mm</td>
+                                                <td class="text-center">15,5%</td>
+                                                <td class="text-center">302,5</td>
+                                                <td class="text-center">18</td>
+                                                <td class="text-center">287</td>
+                                                <td class="text-center">Liquida</td>
+                                                <td class="text-center">???</td>
+                                                <td class="text-center">???</td>
+                                                <td class="text-center"></td>
+                                                <td class="text-center"></td>
+                                                <td class="text-center">Carmisiano Fernando Damián</td>
+                                                <td class="text-center">11474</td>
+                                                <td class="text-center">18080</td>
+                                                <td class="text-center"></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                             </div>
                         </div>
                     </div>
